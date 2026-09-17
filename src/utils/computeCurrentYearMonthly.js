@@ -1,34 +1,33 @@
 import {getRollingMonths} from "./getRollingMonths.js";
 
-export function computeCurrentYearMonthly(monthlyMeans) {
+export function computeCurrentYearMonthly(monthlyMeans, records = []) {
   const today = new Date();
 
   const currentYear = today.getUTCFullYear();
   const currentMonth = today.getUTCMonth() + 1;
-  const currentDay = today.getUTCDate();
 
-  const daysInCurrentMonth = new Date(
-    Date.UTC(currentYear, currentMonth, 0)
-  ).getUTCDate();
+  // Days with a usable flow value in each year-month, so a month is only
+  // plotted once the data covers all of it, however far behind the data runs.
+  const daysObserved = {};
 
-  const halfwayPoint = daysInCurrentMonth / 2;
+  records.forEach(r => {
+    if (r.flow == null) return;
+
+    const key = `${r.year}-${r.month}`;
+
+    daysObserved[key] = (daysObserved[key] ?? 0) + 1;
+  });
 
   const rollingMonths = getRollingMonths();
 
   const currentYearMonthly = [];
 
-  // Find the actual position of the current month
-  // within the rolling window.
-  const currentMonthIndex =
-    rollingMonths.indexOf(currentMonth);
+  // Find the actual position of the current month within the rolling window.
+  const currentMonthIndex = rollingMonths.indexOf(currentMonth);
 
   rollingMonths.forEach((month, index) => {
-
     // Determine which calendar year this month belongs to.
-    const dataYear =
-      month > currentMonth
-        ? currentYear - 1
-        : currentYear;
+    const dataYear = month > currentMonth ? currentYear - 1 : currentYear;
 
     // Leave future months blank.
     if (index > currentMonthIndex) {
@@ -36,18 +35,15 @@ export function computeCurrentYearMonthly(monthlyMeans) {
       return;
     }
 
-    // Don't plot the current month until halfway through.
-    if (
-      month === currentMonth &&
-      currentDay < halfwayPoint
-    ) {
+    const daysInMonth = new Date(Date.UTC(dataYear, month, 0)).getUTCDate();
+
+    // Don't plot a month until it's fully observed.
+    if ((daysObserved[`${dataYear}-${month}`] ?? 0) < daysInMonth) {
       currentYearMonthly.push(null);
       return;
     }
 
-    currentYearMonthly.push(
-      monthlyMeans[dataYear]?.[month] ?? null
-    );
+    currentYearMonthly.push(monthlyMeans[dataYear]?.[month] ?? null);
   });
 
   return {

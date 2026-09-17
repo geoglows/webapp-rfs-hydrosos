@@ -15,12 +15,7 @@ export function getHydroSOSData(records) {
       currentYear
     );
 
-  const {
-    currentYearMonthly
-  } =
-    computeCurrentYearMonthly(
-      monthlyMeans
-    );
+  const {currentYearMonthly} = computeCurrentYearMonthly(monthlyMeans, records);
 
   return {
     monthlyMeans,
@@ -29,4 +24,3 @@ export function getHydroSOSData(records) {
     currentYear
   };
 }
-

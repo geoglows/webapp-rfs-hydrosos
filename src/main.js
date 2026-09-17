@@ -11,7 +11,7 @@ import {buildRecords} from "./utils/buildRecords.js";
 import {getHydroSOSData} from "./utils/getHydroSOSdata.js";
 import {addBasinLayer, selectBasin} from "./map/basinLayer.js";
 import {destroyAllCharts} from "./plots/chartSetup.js";
-import {plotAnnualRunoff} from "./plots/yearlyVolume.js";
+import {plotTotalDischarge} from "./plots/yearlyVolume.js";
 import {computeHydrologicSummary} from "./utils/computeHydrologicSummary.js";
 import {updateHydrologicSummary} from "./utils/updateHydrologicSummary.js";
 import { createDatePickerControl } from "./utils/datePicker.js";
@@ -275,10 +275,12 @@ const riverName =
     );
 
     plotForecastEnvelope(data);
-    plotAnnualRunoff(data);
+    plotTotalDischarge(data);
 
   } catch (error) {
     console.error(error);
+
+    destroyAllCharts();
 
     updateHydrologicSummary(
       null,

@@ -12,7 +12,7 @@ import {
 
 const MOVING_AVERAGE_YEARS = 5;
 
-export function plotAnnualRunoff(data) {
+export function plotTotalDischarge(data) {
 
   const records = buildRecords(data);
 
@@ -74,7 +74,7 @@ export function plotAnnualRunoff(data) {
       datasets: [
 
         {
-          label: "Annual Runoff",
+          label: "Total Discharge",
 
           data:
             annualVolumes.map(
@@ -127,7 +127,7 @@ export function plotAnnualRunoff(data) {
 
         title:
           titleOptions(
-            "Historical Annual Runoff"
+            "Simulated Total Discharge"
           ),
 
         legend: {
@@ -194,7 +194,7 @@ export function plotAnnualRunoff(data) {
             display: true,
 
             text:
-              `Annual Runoff (${volumeUnit.label})`
+              `Total Discharge (${volumeUnit.label})`
 
           }
 

@@ -11,17 +11,20 @@ export function computeRollingVolumePercentile(
     return null;
   }
 
-  const today = new Date();
+  const lastObserved = records.reduce(
+    (latest, record) => record.date > latest ? record.date : latest,
+    records[0].date
+  );
 
   // Start of the current rolling window
-  const windowStart = new Date(today);
+  const windowStart = new Date(lastObserved);
 
   windowStart.setUTCMonth(
     windowStart.getUTCMonth() - monthsBack
   );
 
   // Each historical year is compared through the same point in its own year
-  const currentYear = today.getUTCFullYear();
+  const currentYear = lastObserved.getUTCFullYear();
 
   const years = [...new Set(records.map(r => r.year))]
     .sort((a, b) => a - b)
@@ -32,7 +35,7 @@ export function computeRollingVolumePercentile(
     .filter(record => record.date >= start && record.date <= end)
     .reduce((sum, record) => sum + record.volume, 0);
 
-  const currentVolume = volumeBetween(windowStart, today);
+  const currentVolume = volumeBetween(windowStart, lastObserved);
 
   const historicalVolumes = [];
 
@@ -40,7 +43,7 @@ export function computeRollingVolumePercentile(
     const yearOffset = year - currentYear;
 
     const start = new Date(windowStart);
-    const end = new Date(today);
+    const end = new Date(lastObserved);
 
     start.setUTCFullYear(start.getUTCFullYear() + yearOffset);
     end.setUTCFullYear(end.getUTCFullYear() + yearOffset);
@@ -70,6 +73,6 @@ export function computeRollingVolumePercentile(
     historicalVolumes,
     historicalYears: historicalVolumes.length,
     windowStart,
-    windowEnd: today
+    windowEnd: lastObserved
   };
 }

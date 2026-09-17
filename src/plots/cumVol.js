@@ -99,7 +99,7 @@ const volumeUnit =
       responsive: true,
       interaction: unifiedHover,
       plugins: {
-        title: titleOptions("Historical Cumulative Volume"),
+        title: titleOptions("Simulated Cumulative Volume"),
         legend: {
           ...legendDefaults,
           position: "top"

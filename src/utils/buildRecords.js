@@ -29,13 +29,16 @@ export function buildRecords(data) {
       (1000 * 60 * 60 * 24)
     ) + 1;
 
-    const flow = data[riverID][i];
+    const rawFlow = data[riverID][i];
 
-    if (flow == null || Number.isNaN(flow)) {
+    const missing = rawFlow == null || Number.isNaN(rawFlow);
+
+    if (missing) {
       console.warn(`Missing flow for ${date.toISOString()}`);
     }
 
-    const volume = flow * 86400;
+    const flow = missing ? null : rawFlow;
+    const volume = missing ? null : flow * 86400;
 
     return {
       date,

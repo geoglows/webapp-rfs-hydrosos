@@ -5,8 +5,8 @@ export async function loadBasinSearchIndex() {
 
     const [basinResponse, namesResponse] =
         await Promise.all([
-            fetch("/basin_index.json"),
-            fetch("/outlet_names.json")
+            fetch(`${import.meta.env.BASE_URL}basin_index.json`),
+            fetch(`${import.meta.env.BASE_URL}outlet_names.json`)
         ]);
 
     if (!basinResponse.ok) {
