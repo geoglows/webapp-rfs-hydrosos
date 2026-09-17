@@ -13,13 +13,26 @@
   <meta content="website" property="og:type"/>
   <meta content="https://cdn.apps.geoglows.org/static/images/geoglows-logo-nav.webp" property="og:image"/>
 </head>
+
 <body>
+
 <div id="app">
 
   <header class="nav-bar-wrapper" id="app-header">
 
-    <a aria-label="GEOGLOWS Portal" class="back-to-portal" href="/" title="GEOGLOWS Portal">
-      <img alt="GEOGLOWS" class="back-to-portal-logo" height="60" src="https://cdn.apps.geoglows.org/static/images/geoglows-logo-nav.webp" width="354">
+    <a
+      aria-label="GEOGLOWS Portal"
+      class="back-to-portal"
+      href="/"
+      title="GEOGLOWS Portal"
+    >
+      <img
+        alt="GEOGLOWS"
+        class="back-to-portal-logo"
+        height="60"
+        src="https://cdn.apps.geoglows.org/static/images/geoglows-logo-nav.webp"
+        width="354"
+      >
     </a>
 
     <h1 class="app-title">
@@ -28,47 +41,180 @@
     </h1>
 
     <div class="header-right">
-      <input id="basin-search" placeholder="Search HYBAS_ID..." type="text">
-      <button id="search-button">Search</button>
-      <button aria-controls="basin-panel" aria-expanded="false" id="toggle-panel">Show Charts</button>
+
+      <div class="basin-search-container">
+
+        <input
+          id="basin-search"
+          placeholder="Search basin name or HYBAS_ID..."
+          type="text"
+          autocomplete="off"
+        >
+
+        <div
+          id="basin-suggestions"
+          class="basin-suggestions"
+        ></div>
+
+      </div>
+
+      <button id="search-button">
+        Search
+      </button>
+
+
+      <button
+        aria-controls="basin-panel"
+        aria-expanded="false"
+        id="toggle-panel"
+      >
+        Show Charts
+      </button>
+
+      <button
+  aria-label="About & Methods"
+  id="about-button"
+  title="About & Methods"
+>
+  ⓘ
+</button>
+
     </div>
 
   </header>
+
 
   <div id="workspace">
 
     <div id="map"></div>
 
+
+    <!-- Basin charts panel -->
+
     <aside class="panel hidden" id="basin-panel">
+
       <div class="panel-content">
+
         <button id="close-modal">&times;</button>
-        <div class="loading-overlay" id="loading" style="display:none;">
+
+        <div
+          class="loading-overlay"
+          id="loading"
+          style="display:none;"
+        >
           <div class="spinner"></div>
         </div>
+
         <div id="basin-info"></div>
-        <section class="chart-section">
-          <h2 class="chart-title">Monthly HydroSOS Status</h2>
-          <p class="chart-subtitle">Monthly flow conditions relative to the past 30 years.</p>
-          <div class="plot" id="hydrosos-bands"></div>
-        </section>
 
         <section class="chart-section">
-          <h2 class="chart-title">Seasonal Outlook</h2>
-          <p class="chart-subtitle">Historical analogs show the likely range of cumulative runoff over the next three months.</p>
-          <div class="plot" id="forecast-envelope"></div>
+
+          <h2 class="chart-title">
+            Monthly HydroSOS Status
+          </h2>
+
+          <p class="chart-subtitle">
+            Monthly flow conditions relative to the past 30 years.
+          </p>
+
+          <div
+            class="plot"
+            id="hydrosos-bands"
+          ></div>
+
         </section>
 
+
         <section class="chart-section">
-          <h2 class="chart-title">Cumulative Volume</h2>
-          <p class="chart-subtitle">Compare this year's cumulative runoff to the past 30 years.</p>
-          <div class="plot" id="cumulative-volume"></div>
+
+          <h2 class="chart-title">
+            Seasonal Outlook
+          </h2>
+
+          <p class="chart-subtitle">
+            Historical analogs show the likely range of cumulative
+            runoff over the next three months.
+          </p>
+
+          <div
+            class="plot"
+            id="forecast-envelope"
+          ></div>
+
         </section>
+
+
+        <section class="chart-section">
+
+          <h2 class="chart-title">
+            Cumulative Volume
+          </h2>
+
+          <p class="chart-subtitle">
+            Compare this year's cumulative runoff to the past 30 years.
+          </p>
+
+          <div
+            class="plot"
+            id="cumulative-volume"
+          ></div>
+
+        </section>
+
+
+        <section class="chart-section">
+
+          <h2 class="chart-title">
+            Historical Annual Runoff
+          </h2>
+
+          <p class="chart-subtitle">
+            Compare total seasonal runoff across the historical record.
+          </p>
+
+          <div
+            class="plot"
+            id="annual-runoff"
+          ></div>
+
+        </section>
+
       </div>
 
     </aside>
 
+
+    <!-- About & Methods panel -->
+
+    <aside
+      class="about-panel hidden"
+      id="about-panel"
+    >
+
+      <div class="about-panel-content">
+
+        <button
+          aria-label="Close About & Methods"
+          class="about-close"
+          id="close-about"
+        >
+          &times;
+        </button>
+
+        <div id="about-content"></div>
+
+      </div>
+
+    </aside>
+
+
   </div>
 
-  <script src="/src/main.js" type="module"></script>
+
+  <script
+    src="/src/main.js"
+    type="module"
+  ></script>
+
 </body>
 </html>

@@ -1,28 +1,46 @@
-export function formatVolume(v) {
-  if (v == null) return "";
+export function getVolumeUnit(volume) {
 
-  if (v >= 100) {
-    return `${v.toLocaleString(undefined, {
-      maximumFractionDigits: 0
-    })} billion m³`;
+  const abs = Math.abs(volume);
+
+  if (abs < 1e4) {
+      return {
+          label: "m³",
+          divisor: 1,
+          decimals: 0
+      };
   }
 
-  if (v >= 10) {
-    return `${v.toLocaleString(undefined, {
-      minimumFractionDigits: 1,
-      maximumFractionDigits: 1
-    })} billion m³`;
+  if (abs < 1e6) {
+      return {
+          label: "thousand m³",
+          divisor: 1e3,
+          decimals: 0
+      };
   }
 
-  if (v >= 1) {
-    return `${v.toLocaleString(undefined, {
-      minimumFractionDigits: 2,
-      maximumFractionDigits: 2
-    })} billion m³`;
+  if (abs < 1e9) {
+      return {
+          label: "million m³",
+          divisor: 1e6,
+          decimals: 1
+      };
   }
 
-  return `${v.toLocaleString(undefined, {
-    minimumFractionDigits: 3,
-    maximumFractionDigits: 3
-  })} billion m³`;
+  return {
+      label: "billion m³",
+      divisor: 1e9,
+      decimals: 1
+  };
+}
+
+
+export function formatVolume(volume) {
+
+  if (volume == null || Number.isNaN(volume)) {
+      return "—";
+  }
+
+  const unit = getVolumeUnit(volume);
+
+  return `${(volume / unit.divisor).toFixed(unit.decimals)} ${unit.label}`;
 }

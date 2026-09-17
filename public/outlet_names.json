@@ -1,0 +1,6211 @@
+{
+  "5040017030": {
+    "riverID": 520327685,
+    "riverName": "Kapuas",
+    "nameLinkno": 520327685,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "5040021180": {
+    "riverID": 520350150,
+    "riverName": "Mahakam",
+    "nameLinkno": 520369677,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "5040017820": {
+    "riverID": 520235855,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040004800": {
+    "riverID": 510090019,
+    "riverName": "Batang Hari",
+    "nameLinkno": 510094143,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "7040585120": {
+    "riverID": 710922871,
+    "riverName": "Colorado",
+    "nameLinkno": 710431167,
+    "nameSteps": 697,
+    "nameStatus": "named"
+  },
+  "7040608130": {
+    "riverID": 710914988,
+    "riverName": "San Juan",
+    "nameLinkno": 710914988,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040632220": {
+    "riverID": 710678941,
+    "riverName": "Little Colorado",
+    "nameLinkno": 710678941,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040041050": {
+    "riverID": 750138713,
+    "riverName": "Susquehanna",
+    "nameLinkno": 750127466,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "8040176200": {
+    "riverID": 810321400,
+    "riverName": "Tanana",
+    "nameLinkno": 810321400,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040021210": {
+    "riverID": 650168705,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040026750": {
+    "riverID": 660091197,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040025130": {
+    "riverID": 660089933,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040023980": {
+    "riverID": 660116028,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040933820": {
+    "riverID": 650341154,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 59,
+    "nameStatus": "missing_network"
+  },
+  "6040017970": {
+    "riverID": 650314746,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040709820": {
+    "riverID": 640553275,
+    "riverName": "Grande",
+    "nameLinkno": 640553275,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040814830": {
+    "riverID": 640564028,
+    "riverName": "Parana",
+    "nameLinkno": 640255644,
+    "nameSteps": 246,
+    "nameStatus": "named"
+  },
+  "6040015560": {
+    "riverID": 640538827,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040007000": {
+    "riverID": 621062592,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040389870": {
+    "riverID": 630342122,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 243,
+    "nameStatus": "missing_network"
+  },
+  "6040009760": {
+    "riverID": 630164909,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040280410": {
+    "riverID": 621066852,
+    "riverName": "Amazon",
+    "nameLinkno": 621010293,
+    "nameSteps": 234,
+    "nameStatus": "named"
+  },
+  "7040005410": {
+    "riverID": 710245376,
+    "riverName": "Atoyac",
+    "nameLinkno": 710245376,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040837890": {
+    "riverID": 160771607,
+    "riverName": "White Nile",
+    "nameLinkno": 160502764,
+    "nameSteps": 226,
+    "nameStatus": "named"
+  },
+  "1040014490": {
+    "riverID": 120222914,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "1041624330": {
+    "riverID": 120538727,
+    "riverName": "Orange",
+    "nameLinkno": 120518766,
+    "nameSteps": 262,
+    "nameStatus": "named"
+  },
+  "1041629430": {
+    "riverID": 120565386,
+    "riverName": "Upper Orange",
+    "nameLinkno": 120565386,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1041478080": {
+    "riverID": 120772674,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 260,
+    "nameStatus": "missing_network"
+  },
+  "1041548760": {
+    "riverID": 120704723,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 244,
+    "nameStatus": "missing_network"
+  },
+  "1040010590": {
+    "riverID": 110306880,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040035400": {
+    "riverID": 170119574,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040018120": {
+    "riverID": 130109517,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040019180": {
+    "riverID": 130538829,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1041174960": {
+    "riverID": 130714565,
+    "riverName": "Lower Congo**",
+    "nameLinkno": 130750636,
+    "nameSteps": 72,
+    "nameStatus": "named"
+  },
+  "1040722720": {
+    "riverID": 140637122,
+    "riverName": "Niger",
+    "nameLinkno": 140005819,
+    "nameSteps": 386,
+    "nameStatus": "named"
+  },
+  "1040709280": {
+    "riverID": 140610892,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 620,
+    "nameStatus": "missing_network"
+  },
+  "1040786860": {
+    "riverID": 140685297,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 446,
+    "nameStatus": "missing_network"
+  },
+  "1040023900": {
+    "riverID": 140238704,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 5,
+    "nameStatus": "missing_network"
+  },
+  "1040633540": {
+    "riverID": 140689371,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 134,
+    "nameStatus": "missing_network"
+  },
+  "1040644920": {
+    "riverID": 140714143,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 159,
+    "nameStatus": "missing_network"
+  },
+  "4040783330": {
+    "riverID": 420794103,
+    "riverName": "Lower Yangtze",
+    "nameLinkno": 420828907,
+    "nameSteps": 81,
+    "nameStatus": "named"
+  },
+  "4040773260": {
+    "riverID": 420761324,
+    "riverName": "Gan",
+    "nameLinkno": 420761324,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040694350": {
+    "riverID": 420828907,
+    "riverName": "Lower Yangtze",
+    "nameLinkno": 420828907,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040603740": {
+    "riverID": 420923927,
+    "riverName": "Yellow",
+    "nameLinkno": 420711866,
+    "nameSteps": 283,
+    "nameStatus": "named"
+  },
+  "3040496590": {
+    "riverID": 310681644,
+    "riverName": "Irtysh",
+    "nameLinkno": 310582199,
+    "nameSteps": 231,
+    "nameStatus": "named"
+  },
+  "3040481940": {
+    "riverID": 310729226,
+    "riverName": "Irtysh",
+    "nameLinkno": 310582199,
+    "nameSteps": 153,
+    "nameStatus": "named"
+  },
+  "3040387130": {
+    "riverID": 310582199,
+    "riverName": "Irtysh",
+    "nameLinkno": 310582199,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "3040369500": {
+    "riverID": 320452094,
+    "riverName": "Yenesei",
+    "nameLinkno": 320185642,
+    "nameSteps": 321,
+    "nameStatus": "named"
+  },
+  "3040299510": {
+    "riverID": 340503206,
+    "riverName": "Lena",
+    "nameLinkno": 340058932,
+    "nameSteps": 410,
+    "nameStatus": "named"
+  },
+  "4040794730": {
+    "riverID": 441247006,
+    "riverName": "Chenab",
+    "nameLinkno": 441247006,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "5040057320": {
+    "riverID": 541800212,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040057710": {
+    "riverID": 541676451,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087830": {
+    "riverID": 541781568,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 80,
+    "nameStatus": "missing_network"
+  },
+  "5040491380": {
+    "riverID": 541864846,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 36,
+    "nameStatus": "missing_network"
+  },
+  "5040073410": {
+    "riverID": 540514417,
+    "riverName": "Murray",
+    "nameLinkno": 540510389,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "5040533450": {
+    "riverID": 541752049,
+    "riverName": "Darling",
+    "nameLinkno": 540871873,
+    "nameSteps": 171,
+    "nameStatus": "named"
+  },
+  "2040085560": {
+    "riverID": 290636657,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040340": {
+    "riverID": 150516129,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040022150": {
+    "riverID": 230440085,
+    "riverName": "Seine",
+    "nameLinkno": 230452055,
+    "nameSteps": 5,
+    "nameStatus": "named"
+  },
+  "2040379760": {
+    "riverID": 220472253,
+    "riverName": "Dnipro",
+    "nameLinkno": 220585480,
+    "nameSteps": 395,
+    "nameStatus": "named"
+  },
+  "2040416550": {
+    "riverID": 220448961,
+    "riverName": "Dnipro",
+    "nameLinkno": 220585480,
+    "nameSteps": 323,
+    "nameStatus": "named"
+  },
+  "2040315950": {
+    "riverID": 280758311,
+    "riverName": "Oka",
+    "nameLinkno": 280777831,
+    "nameSteps": 95,
+    "nameStatus": "named"
+  },
+  "2040289120": {
+    "riverID": 280777831,
+    "riverName": "Oka",
+    "nameLinkno": 280777831,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040005120": {
+    "riverID": 220112491,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040073570": {
+    "riverID": 291153600,
+    "riverName": "Shat-Al-Arab",
+    "nameLinkno": 291153602,
+    "nameSteps": 5,
+    "nameStatus": "named"
+  },
+  "2040085640": {
+    "riverID": 291201685,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040071690": {
+    "riverID": 290580046,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040607420": {
+    "riverID": 440399124,
+    "riverName": "Indus",
+    "nameLinkno": 441077984,
+    "nameSteps": 712,
+    "nameStatus": "named"
+  },
+  "4040225300": {
+    "riverID": 470564837,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 29,
+    "nameStatus": "missing_network"
+  },
+  "4040416430": {
+    "riverID": 460266650,
+    "riverName": "Tarim",
+    "nameLinkno": 460237273,
+    "nameSteps": 164,
+    "nameStatus": "named"
+  },
+  "4040095320": {
+    "riverID": 410625781,
+    "riverName": "Argun",
+    "nameLinkno": 410625781,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "3040679760": {
+    "riverID": 320327004,
+    "riverName": "Angara",
+    "nameLinkno": 320324369,
+    "nameSteps": 893,
+    "nameStatus": "named"
+  },
+  "4040050370": {
+    "riverID": 480232377,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040462930": {
+    "riverID": 460236578,
+    "riverName": "Tarim",
+    "nameLinkno": 460237273,
+    "nameSteps": 352,
+    "nameStatus": "named"
+  },
+  "7040039880": {
+    "riverID": 750117989,
+    "riverName": "Delaware",
+    "nameLinkno": 750117989,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040709810": {
+    "riverID": 640541754,
+    "riverName": "Paranaiba",
+    "nameLinkno": 640541754,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040280400": {
+    "riverID": 621088867,
+    "riverName": "Negro",
+    "nameLinkno": 621088867,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040837630": {
+    "riverID": 160770439,
+    "riverName": "White Nile",
+    "nameLinkno": 160502764,
+    "nameSteps": 226,
+    "nameStatus": "named"
+  },
+  "1041548750": {
+    "riverID": 120714706,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 244,
+    "nameStatus": "missing_network"
+  },
+  "1041174950": {
+    "riverID": 130706006,
+    "riverName": "Sangha",
+    "nameLinkno": 130706006,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040709030": {
+    "riverID": 140637094,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 620,
+    "nameStatus": "missing_network"
+  },
+  "1040633360": {
+    "riverID": 140706840,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 134,
+    "nameStatus": "missing_network"
+  },
+  "1040644790": {
+    "riverID": 140680654,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 159,
+    "nameStatus": "missing_network"
+  },
+  "3040386960": {
+    "riverID": 310600050,
+    "riverName": "Ob",
+    "nameLinkno": 310363561,
+    "nameSteps": 261,
+    "nameStatus": "named"
+  },
+  "3040369320": {
+    "riverID": 320412925,
+    "riverName": "Yenesei",
+    "nameLinkno": 320185642,
+    "nameSteps": 321,
+    "nameStatus": "named"
+  },
+  "4040794590": {
+    "riverID": 441248382,
+    "riverName": "Indus",
+    "nameLinkno": 441077984,
+    "nameSteps": 222,
+    "nameStatus": "named"
+  },
+  "5040056750": {
+    "riverID": 541753216,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040057330": {
+    "riverID": 541664369,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040491370": {
+    "riverID": 541909196,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 36,
+    "nameStatus": "missing_network"
+  },
+  "5040533380": {
+    "riverID": 541772208,
+    "riverName": "Darling",
+    "nameLinkno": 540871873,
+    "nameSteps": 171,
+    "nameStatus": "named"
+  },
+  "2040379750": {
+    "riverID": 220505276,
+    "riverName": "Dnipro",
+    "nameLinkno": 220585480,
+    "nameSteps": 395,
+    "nameStatus": "named"
+  },
+  "2040416390": {
+    "riverID": 220461346,
+    "riverName": "Desna",
+    "nameLinkno": 220461346,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040315940": {
+    "riverID": 280768678,
+    "riverName": "Oka",
+    "nameLinkno": 280777831,
+    "nameSteps": 95,
+    "nameStatus": "named"
+  },
+  "2040288980": {
+    "riverID": 280768612,
+    "riverName": "Volga",
+    "nameLinkno": 280274809,
+    "nameSteps": 695,
+    "nameStatus": "named"
+  },
+  "4040095270": {
+    "riverID": 410637044,
+    "riverName": "Shilka",
+    "nameLinkno": 410637044,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "3040679750": {
+    "riverID": 320323548,
+    "riverName": "Angara",
+    "nameLinkno": 320324369,
+    "nameSteps": 893,
+    "nameStatus": "named"
+  },
+  "4040462690": {
+    "riverID": 460267478,
+    "riverName": "Tarim",
+    "nameLinkno": 460237273,
+    "nameSteps": 359,
+    "nameStatus": "named"
+  },
+  "1040009450": {
+    "riverID": 110569126,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "1040009460": {
+    "riverID": 110333011,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040010030": {
+    "riverID": 110296304,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040010600": {
+    "riverID": 110118062,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040370": {
+    "riverID": 110496967,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040000010": {
+    "riverID": 110064602,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040006850": {
+    "riverID": 110799543,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040007000": {
+    "riverID": 110790391,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040007260": {
+    "riverID": 110791737,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040270": {
+    "riverID": 110858692,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040320": {
+    "riverID": 110451843,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040900": {
+    "riverID": 110173624,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040920": {
+    "riverID": 110842994,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040008100": {
+    "riverID": 110407544,
+    "riverName": "Jubba",
+    "nameLinkno": 110407544,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040008110": {
+    "riverID": 110411500,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040008470": {
+    "riverID": 110383989,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040008480": {
+    "riverID": 110373591,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1041014460": {
+    "riverID": 110905961,
+    "riverName": "Shebelle",
+    "nameLinkno": 110441645,
+    "nameSteps": 186,
+    "nameStatus": "named"
+  },
+  "1041014470": {
+    "riverID": 110908585,
+    "riverName": "Shebelle",
+    "nameLinkno": 110441645,
+    "nameSteps": 182,
+    "nameStatus": "named"
+  },
+  "1041115240": {
+    "riverID": 110634471,
+    "riverName": "Shebelle",
+    "nameLinkno": 110441645,
+    "nameSteps": 78,
+    "nameStatus": "named"
+  },
+  "1041115400": {
+    "riverID": 110554448,
+    "riverName": "Shebelle",
+    "nameLinkno": 110441645,
+    "nameSteps": 60,
+    "nameStatus": "named"
+  },
+  "1041139430": {
+    "riverID": 110398348,
+    "riverName": "Jubba",
+    "nameLinkno": 110407544,
+    "nameSteps": 18,
+    "nameStatus": "named"
+  },
+  "1041139500": {
+    "riverID": 110441645,
+    "riverName": "Shebelle",
+    "nameLinkno": 110441645,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1041144990": {
+    "riverID": 110479699,
+    "riverName": "Jubba",
+    "nameLinkno": 110407544,
+    "nameSteps": 8,
+    "nameStatus": "named"
+  },
+  "1041145090": {
+    "riverID": 110385234,
+    "riverName": "Jubba",
+    "nameLinkno": 110407544,
+    "nameSteps": 10,
+    "nameStatus": "named"
+  },
+  "1040040260": {
+    "riverID": 110777430,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040440": {
+    "riverID": 110436498,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040550": {
+    "riverID": 110765637,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040660": {
+    "riverID": 110862667,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040041020": {
+    "riverID": 110335446,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040041270": {
+    "riverID": 110651508,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040012690": {
+    "riverID": 120520259,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040012810": {
+    "riverID": 120581853,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "1040012820": {
+    "riverID": 120229572,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040014920": {
+    "riverID": 120094812,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040014930": {
+    "riverID": 120059873,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040015030": {
+    "riverID": 120429106,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040015850": {
+    "riverID": 120507116,
+    "riverName": "Orange",
+    "nameLinkno": 120518766,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "1040015860": {
+    "riverID": 120663152,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1041477980": {
+    "riverID": 120704448,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 260,
+    "nameStatus": "missing_network"
+  },
+  "1041479540": {
+    "riverID": 120774339,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 248,
+    "nameStatus": "missing_network"
+  },
+  "1041479650": {
+    "riverID": 120774341,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 248,
+    "nameStatus": "missing_network"
+  },
+  "1041515680": {
+    "riverID": 120716235,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 115,
+    "nameStatus": "missing_network"
+  },
+  "1041515780": {
+    "riverID": 120669645,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 115,
+    "nameStatus": "missing_network"
+  },
+  "1041533130": {
+    "riverID": 120776206,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 40,
+    "nameStatus": "missing_network"
+  },
+  "1041533240": {
+    "riverID": 120651411,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 43,
+    "nameStatus": "missing_network"
+  },
+  "1041620200": {
+    "riverID": 120545353,
+    "riverName": "Fish",
+    "nameLinkno": 120545353,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1041620260": {
+    "riverID": 120543692,
+    "riverName": "Orange",
+    "nameLinkno": 120518766,
+    "nameSteps": 63,
+    "nameStatus": "named"
+  },
+  "1041624310": {
+    "riverID": 120527076,
+    "riverName": "Molopo",
+    "nameLinkno": 120527076,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1041626200": {
+    "riverID": 120517110,
+    "riverName": "Hartbees",
+    "nameLinkno": 120517110,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1041626210": {
+    "riverID": 120558709,
+    "riverName": "Orange",
+    "nameLinkno": 120518766,
+    "nameSteps": 277,
+    "nameStatus": "named"
+  },
+  "1041629370": {
+    "riverID": 120570377,
+    "riverName": "Vaal",
+    "nameLinkno": 120570377,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040040200": {
+    "riverID": 120712960,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040240": {
+    "riverID": 120772729,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040011660": {
+    "riverID": 120702826,
+    "riverName": "Zambezi",
+    "nameLinkno": 120792679,
+    "nameSteps": 6,
+    "nameStatus": "named"
+  },
+  "1040011670": {
+    "riverID": 120831107,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040012590": {
+    "riverID": 120543503,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040012680": {
+    "riverID": 120563510,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1041431480": {
+    "riverID": 120639402,
+    "riverName": "Zambezi Delta",
+    "nameLinkno": 120741039,
+    "nameSteps": 271,
+    "nameStatus": "named"
+  },
+  "1041431680": {
+    "riverID": 120700972,
+    "riverName": "Zambezi Delta",
+    "nameLinkno": 120741039,
+    "nameSteps": 271,
+    "nameStatus": "named"
+  },
+  "1041438780": {
+    "riverID": 120604479,
+    "riverName": "Luangwa",
+    "nameLinkno": 120607807,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "1041438860": {
+    "riverID": 120720962,
+    "riverName": "Zambezi Delta",
+    "nameLinkno": 120741039,
+    "nameSteps": 345,
+    "nameStatus": "named"
+  },
+  "1041472390": {
+    "riverID": 120734383,
+    "riverName": "Shire",
+    "nameLinkno": 120734383,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1041472430": {
+    "riverID": 120657840,
+    "riverName": "Zambezi Delta",
+    "nameLinkno": 120741039,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "1041473880": {
+    "riverID": 120731062,
+    "riverName": "Zambezi Delta",
+    "nameLinkno": 120741039,
+    "nameSteps": 556,
+    "nameStatus": "named"
+  },
+  "1041473950": {
+    "riverID": 120732725,
+    "riverName": "Zambezi Delta",
+    "nameLinkno": 120741039,
+    "nameSteps": 557,
+    "nameStatus": "named"
+  },
+  "1041548220": {
+    "riverID": 120684750,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 231,
+    "nameStatus": "missing_network"
+  },
+  "1041548260": {
+    "riverID": 120658129,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 232,
+    "nameStatus": "missing_network"
+  },
+  "1041576090": {
+    "riverID": 120636619,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 35,
+    "nameStatus": "missing_network"
+  },
+  "1041576130": {
+    "riverID": 120606670,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 35,
+    "nameStatus": "missing_network"
+  },
+  "1041584690": {
+    "riverID": 120595057,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 21,
+    "nameStatus": "missing_network"
+  },
+  "1041584780": {
+    "riverID": 120659954,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 21,
+    "nameStatus": "missing_network"
+  },
+  "1040019270": {
+    "riverID": 130629523,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "1040019420": {
+    "riverID": 130661995,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040019430": {
+    "riverID": 130603654,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040020050": {
+    "riverID": 130750761,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040020240": {
+    "riverID": 130745580,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040020570": {
+    "riverID": 130695715,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040020580": {
+    "riverID": 130765697,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040021500": {
+    "riverID": 130770757,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040021510": {
+    "riverID": 130815237,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "1040021910": {
+    "riverID": 130748422,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040020040": {
+    "riverID": 130749104,
+    "riverName": "Congo",
+    "nameLinkno": 130747391,
+    "nameSteps": 5,
+    "nameStatus": "named"
+  },
+  "1041156950": {
+    "riverID": 130688833,
+    "riverName": "Ubangui",
+    "nameLinkno": 130723080,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "1041156960": {
+    "riverID": 130724786,
+    "riverName": "Lower Congo**",
+    "nameLinkno": 130750636,
+    "nameSteps": 113,
+    "nameStatus": "named"
+  },
+  "1041213630": {
+    "riverID": 130740362,
+    "riverName": "Lower Congo**",
+    "nameLinkno": 130750636,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "1041213640": {
+    "riverID": 130738650,
+    "riverName": "Kasai",
+    "nameLinkno": 130738650,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1041259940": {
+    "riverID": 130673750,
+    "riverName": "Upper Congo**",
+    "nameLinkno": 130729844,
+    "nameSteps": 369,
+    "nameStatus": "named"
+  },
+  "1041259950": {
+    "riverID": 130757640,
+    "riverName": "Upper Congo**",
+    "nameLinkno": 130729844,
+    "nameSteps": 369,
+    "nameStatus": "named"
+  },
+  "1040022430": {
+    "riverID": 140454109,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040023300": {
+    "riverID": 140342044,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040023310": {
+    "riverID": 140202316,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040023890": {
+    "riverID": 140320242,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 19,
+    "nameStatus": "missing_network"
+  },
+  "1040023950": {
+    "riverID": 140225611,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040786690": {
+    "riverID": 140696944,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 446,
+    "nameStatus": "missing_network"
+  },
+  "1040873640": {
+    "riverID": 140717480,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 176,
+    "nameStatus": "missing_network"
+  },
+  "1040873650": {
+    "riverID": 140692723,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 175,
+    "nameStatus": "missing_network"
+  },
+  "1040915980": {
+    "riverID": 140689897,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 98,
+    "nameStatus": "missing_network"
+  },
+  "1040915990": {
+    "riverID": 140641844,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 100,
+    "nameStatus": "missing_network"
+  },
+  "1040022420": {
+    "riverID": 140059678,
+    "riverName": "Niger",
+    "nameLinkno": 140005819,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "1040641660": {
+    "riverID": 140773834,
+    "riverName": "Niger",
+    "nameLinkno": 140005819,
+    "nameSteps": 831,
+    "nameStatus": "named"
+  },
+  "1040641670": {
+    "riverID": 140703945,
+    "riverName": "Niger",
+    "nameLinkno": 140005819,
+    "nameSteps": 831,
+    "nameStatus": "named"
+  },
+  "1040722570": {
+    "riverID": 140629840,
+    "riverName": "Dallol Bosso",
+    "nameLinkno": 140629840,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040760280": {
+    "riverID": 140680878,
+    "riverName": "Niger",
+    "nameLinkno": 140005819,
+    "nameSteps": 327,
+    "nameStatus": "named"
+  },
+  "1040760290": {
+    "riverID": 140603709,
+    "riverName": "Sokoto",
+    "nameLinkno": 140603709,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040909890": {
+    "riverID": 140633097,
+    "riverName": "Niger",
+    "nameLinkno": 140005819,
+    "nameSteps": 122,
+    "nameStatus": "named"
+  },
+  "1040909900": {
+    "riverID": 140719000,
+    "riverName": "Benue",
+    "nameLinkno": 140719000,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040023960": {
+    "riverID": 140184844,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040024070": {
+    "riverID": 140135351,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040026800": {
+    "riverID": 140639960,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 6,
+    "nameStatus": "missing_network"
+  },
+  "1040026820": {
+    "riverID": 140676324,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040027410": {
+    "riverID": 140565510,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "1040571730": {
+    "riverID": 140617894,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 33,
+    "nameStatus": "missing_network"
+  },
+  "1040571900": {
+    "riverID": 140537820,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 33,
+    "nameStatus": "missing_network"
+  },
+  "1040667360": {
+    "riverID": 140635565,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 205,
+    "nameStatus": "missing_network"
+  },
+  "1040667560": {
+    "riverID": 140631197,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 205,
+    "nameStatus": "missing_network"
+  },
+  "1040040410": {
+    "riverID": 151256733,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 7,
+    "nameStatus": "missing_network"
+  },
+  "1040040790": {
+    "riverID": 151068000,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 31,
+    "nameStatus": "missing_network"
+  },
+  "1040040220": {
+    "riverID": 151206905,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040560": {
+    "riverID": 151306518,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040028960": {
+    "riverID": 151300277,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040029430": {
+    "riverID": 150530093,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040029700": {
+    "riverID": 150508185,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040520": {
+    "riverID": 151230764,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040580": {
+    "riverID": 151256707,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040630": {
+    "riverID": 151169254,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040990": {
+    "riverID": 151127566,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040029810": {
+    "riverID": 150494226,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040330": {
+    "riverID": 150744408,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 73,
+    "nameStatus": "missing_network"
+  },
+  "1040040300": {
+    "riverID": 151129611,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040740": {
+    "riverID": 150524035,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040750": {
+    "riverID": 150482296,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040041070": {
+    "riverID": 150857536,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040028700": {
+    "riverID": 151187314,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040040870": {
+    "riverID": 151344232,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040380": {
+    "riverID": 150214066,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040960": {
+    "riverID": 150983443,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040540": {
+    "riverID": 150907185,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 90,
+    "nameStatus": "missing_network"
+  },
+  "1040040420": {
+    "riverID": 151169378,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040041430": {
+    "riverID": 151222922,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040250": {
+    "riverID": 151294447,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 57,
+    "nameStatus": "missing_network"
+  },
+  "1040040280": {
+    "riverID": 150426280,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040290": {
+    "riverID": 151261031,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "1040041040": {
+    "riverID": 151300723,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 13,
+    "nameStatus": "missing_network"
+  },
+  "1040040670": {
+    "riverID": 151217440,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040310": {
+    "riverID": 151116305,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040034260": {
+    "riverID": 160064246,
+    "riverName": "Nile",
+    "nameLinkno": 160064246,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040034270": {
+    "riverID": 160105132,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040526810": {
+    "riverID": 160448969,
+    "riverName": "Nile",
+    "nameLinkno": 160064246,
+    "nameSteps": 789,
+    "nameStatus": "named"
+  },
+  "1040526970": {
+    "riverID": 160458314,
+    "riverName": "Nile",
+    "nameLinkno": 160064246,
+    "nameSteps": 789,
+    "nameStatus": "named"
+  },
+  "1040601190": {
+    "riverID": 160502764,
+    "riverName": "White Nile",
+    "nameLinkno": 160502764,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040601200": {
+    "riverID": 160501596,
+    "riverName": "Blue Nile",
+    "nameLinkno": 160501596,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040843030": {
+    "riverID": 160723721,
+    "riverName": "White Nile",
+    "nameLinkno": 160502764,
+    "nameSteps": 206,
+    "nameStatus": "named"
+  },
+  "1040843040": {
+    "riverID": 160762267,
+    "riverName": "White Nile",
+    "nameLinkno": 160502764,
+    "nameSteps": 209,
+    "nameStatus": "named"
+  },
+  "1040035590": {
+    "riverID": 170115307,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040036020": {
+    "riverID": 170128949,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "1040036030": {
+    "riverID": 170124565,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040036860": {
+    "riverID": 170114945,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "1040040230": {
+    "riverID": 180335351,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040510": {
+    "riverID": 180316282,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040590": {
+    "riverID": 180334530,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040041030": {
+    "riverID": 180338208,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040210": {
+    "riverID": 180332556,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040490": {
+    "riverID": 180356459,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040040610": {
+    "riverID": 180335378,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040695300": {
+    "riverID": 180405703,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "1040695540": {
+    "riverID": 180401865,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 34,
+    "nameStatus": "missing_network"
+  },
+  "1040695700": {
+    "riverID": 180424905,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040734180": {
+    "riverID": 180423038,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 29,
+    "nameStatus": "missing_network"
+  },
+  "1040734190": {
+    "riverID": 180404793,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 29,
+    "nameStatus": "missing_network"
+  },
+  "1040840230": {
+    "riverID": 180205239,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 156,
+    "nameStatus": "missing_network"
+  },
+  "1040840410": {
+    "riverID": 180189880,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 155,
+    "nameStatus": "missing_network"
+  },
+  "1040040360": {
+    "riverID": 180418194,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1041923540": {
+    "riverID": 180367351,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 26,
+    "nameStatus": "missing_network"
+  },
+  "2040012730": {
+    "riverID": 210195545,
+    "riverName": "Po",
+    "nameLinkno": 210195545,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040014550": {
+    "riverID": 210393186,
+    "riverName": "Tiber",
+    "nameLinkno": 210393186,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040016230": {
+    "riverID": 210213573,
+    "riverName": "Rhone",
+    "nameLinkno": 210213573,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040009230": {
+    "riverID": 210366841,
+    "riverName": "Maritsa",
+    "nameLinkno": 210366841,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040007930": {
+    "riverID": 220637765,
+    "riverName": "Dnipro",
+    "nameLinkno": 220585480,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "2040007940": {
+    "riverID": 220571750,
+    "riverName": "Dnister",
+    "nameLinkno": 220571750,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040363700": {
+    "riverID": 220413040,
+    "riverName": "Berezina",
+    "nameLinkno": 220413040,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040400100": {
+    "riverID": 220499830,
+    "riverName": "Pripyat",
+    "nameLinkno": 220501206,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "2040400110": {
+    "riverID": 220517715,
+    "riverName": "Dnipro",
+    "nameLinkno": 220585480,
+    "nameSteps": 350,
+    "nameStatus": "named"
+  },
+  "2040003550": {
+    "riverID": 220179949,
+    "riverName": "Sakarya",
+    "nameLinkno": 220179949,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040003560": {
+    "riverID": 220098734,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040004130": {
+    "riverID": 220097354,
+    "riverName": "Kizilirmak",
+    "nameLinkno": 220097354,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040004280": {
+    "riverID": 220126268,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040005130": {
+    "riverID": 220075295,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040005690": {
+    "riverID": 220556602,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085960": {
+    "riverID": 220147096,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040008490": {
+    "riverID": 220548420,
+    "riverName": "Danube",
+    "nameLinkno": 220463113,
+    "nameSteps": 14,
+    "nameStatus": "named"
+  },
+  "2040539930": {
+    "riverID": 220548396,
+    "riverName": "Danube",
+    "nameLinkno": 220463113,
+    "nameSteps": 325,
+    "nameStatus": "named"
+  },
+  "2040540100": {
+    "riverID": 220474093,
+    "riverName": "Drava",
+    "nameLinkno": 220474093,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040543090": {
+    "riverID": 220538775,
+    "riverName": "Danube",
+    "nameLinkno": 220463113,
+    "nameSteps": 28,
+    "nameStatus": "named"
+  },
+  "2040543160": {
+    "riverID": 220577308,
+    "riverName": "Danube",
+    "nameLinkno": 220463113,
+    "nameSteps": 28,
+    "nameStatus": "named"
+  },
+  "2040548500": {
+    "riverID": 220558053,
+    "riverName": "Tisa",
+    "nameLinkno": 220558053,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040548700": {
+    "riverID": 220475495,
+    "riverName": "Danube",
+    "nameLinkno": 220463113,
+    "nameSteps": 280,
+    "nameStatus": "named"
+  },
+  "2040555600": {
+    "riverID": 220471392,
+    "riverName": "Danube",
+    "nameLinkno": 220463113,
+    "nameSteps": 274,
+    "nameStatus": "named"
+  },
+  "2040555780": {
+    "riverID": 220439746,
+    "riverName": "Danube",
+    "nameLinkno": 220463113,
+    "nameSteps": 274,
+    "nameStatus": "named"
+  },
+  "2040006590": {
+    "riverID": 220687257,
+    "riverName": "Don",
+    "nameLinkno": 220685874,
+    "nameSteps": 9,
+    "nameStatus": "named"
+  },
+  "2040439100": {
+    "riverID": 220528838,
+    "riverName": "Don",
+    "nameLinkno": 220685874,
+    "nameSteps": 251,
+    "nameStatus": "named"
+  },
+  "2040439160": {
+    "riverID": 220515079,
+    "riverName": "Don",
+    "nameLinkno": 220685874,
+    "nameSteps": 251,
+    "nameStatus": "named"
+  },
+  "2040439790": {
+    "riverID": 220528841,
+    "riverName": "Don",
+    "nameLinkno": 220685874,
+    "nameSteps": 237,
+    "nameStatus": "named"
+  },
+  "2040439800": {
+    "riverID": 220535716,
+    "riverName": "Don",
+    "nameLinkno": 220685874,
+    "nameSteps": 238,
+    "nameStatus": "named"
+  },
+  "2040491970": {
+    "riverID": 220691351,
+    "riverName": "Don",
+    "nameLinkno": 220685874,
+    "nameSteps": 37,
+    "nameStatus": "named"
+  },
+  "2040491980": {
+    "riverID": 220696855,
+    "riverName": "Don",
+    "nameLinkno": 220685874,
+    "nameSteps": 37,
+    "nameStatus": "named"
+  },
+  "2040501810": {
+    "riverID": 220729904,
+    "riverName": "Don",
+    "nameLinkno": 220685874,
+    "nameSteps": 27,
+    "nameStatus": "named"
+  },
+  "2040501940": {
+    "riverID": 220681745,
+    "riverName": "Don",
+    "nameLinkno": 220685874,
+    "nameSteps": 27,
+    "nameStatus": "named"
+  },
+  "2040054200": {
+    "riverID": 230475858,
+    "riverName": "Shannon",
+    "nameLinkno": 230475858,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040018360": {
+    "riverID": 230028254,
+    "riverName": "Guadalquivir",
+    "nameLinkno": 230028254,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040018460": {
+    "riverID": 230191438,
+    "riverName": "Guadiana",
+    "nameLinkno": 230191438,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040018840": {
+    "riverID": 230201159,
+    "riverName": "Tagus",
+    "nameLinkno": 230187016,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "2040019150": {
+    "riverID": 230183660,
+    "riverName": "Duoro",
+    "nameLinkno": 230184748,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "2040020320": {
+    "riverID": 230172621,
+    "riverName": "La Garonne",
+    "nameLinkno": 230166092,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "2040021030": {
+    "riverID": 230269360,
+    "riverName": "Loire",
+    "nameLinkno": 230269360,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040022160": {
+    "riverID": 230452055,
+    "riverName": "Seine",
+    "nameLinkno": 230452055,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040023010": {
+    "riverID": 230559667,
+    "riverName": "Rhine",
+    "nameLinkno": 230524848,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "2040023020": {
+    "riverID": 230494329,
+    "riverName": "Weser",
+    "nameLinkno": 230494329,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040024170": {
+    "riverID": 230330030,
+    "riverName": "Elbe",
+    "nameLinkno": 230222307,
+    "nameSteps": 11,
+    "nameStatus": "named"
+  },
+  "2040026550": {
+    "riverID": 240226643,
+    "riverName": "Vistula",
+    "nameLinkno": 240246223,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "2040026560": {
+    "riverID": 240162111,
+    "riverName": "Pregolya",
+    "nameLinkno": 240162111,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040026920": {
+    "riverID": 240245017,
+    "riverName": "Neman",
+    "nameLinkno": 240208157,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "2040026930": {
+    "riverID": 240248376,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040027320": {
+    "riverID": 240242614,
+    "riverName": "Daugava",
+    "nameLinkno": 240241461,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "2040028310": {
+    "riverID": 240219410,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040028660": {
+    "riverID": 240264305,
+    "riverName": "Kymi",
+    "nameLinkno": 240264305,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040028670": {
+    "riverID": 240273462,
+    "riverName": "Kokema\u00ebn",
+    "nameLinkno": 240273462,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040029940": {
+    "riverID": 240153456,
+    "riverName": "Oulu",
+    "nameLinkno": 240153456,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040029950": {
+    "riverID": 240183390,
+    "riverName": "Iijoki",
+    "nameLinkno": 240183390,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040026060": {
+    "riverID": 240258941,
+    "riverName": "Oder",
+    "nameLinkno": 240250867,
+    "nameSteps": 6,
+    "nameStatus": "named"
+  },
+  "2040026070": {
+    "riverID": 240231257,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040030060": {
+    "riverID": 240186820,
+    "riverName": "Kemijoki",
+    "nameLinkno": 240186820,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040030100": {
+    "riverID": 240244417,
+    "riverName": "Torne",
+    "nameLinkno": 240244417,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040030110": {
+    "riverID": 240196031,
+    "riverName": "Kalix",
+    "nameLinkno": 240196031,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040031060": {
+    "riverID": 240250329,
+    "riverName": "Angerman",
+    "nameLinkno": 240319458,
+    "nameSteps": 6,
+    "nameStatus": "named"
+  },
+  "2040031070": {
+    "riverID": 240319458,
+    "riverName": "Angerman",
+    "nameLinkno": 240319458,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040031490": {
+    "riverID": 240268908,
+    "riverName": "Dal\u00e4lven",
+    "nameLinkno": 240268908,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040033320": {
+    "riverID": 240233354,
+    "riverName": "Klaralven",
+    "nameLinkno": 240221835,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "2040033480": {
+    "riverID": 250050536,
+    "riverName": "Glomma",
+    "nameLinkno": 250050536,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040039390": {
+    "riverID": 250165158,
+    "riverName": "Pasvik",
+    "nameLinkno": 250141347,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "2040039590": {
+    "riverID": 250227681,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "2040039600": {
+    "riverID": 250204862,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040041120": {
+    "riverID": 250091951,
+    "riverName": "Kem",
+    "nameLinkno": 250091951,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040041180": {
+    "riverID": 250104868,
+    "riverName": "Vyg",
+    "nameLinkno": 250104868,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040065960": {
+    "riverID": 280369658,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "2040066030": {
+    "riverID": 280464102,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 8,
+    "nameStatus": "missing_network"
+  },
+  "2040066340": {
+    "riverID": 280352267,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 184,
+    "nameStatus": "missing_network"
+  },
+  "2040069160": {
+    "riverID": 280318726,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040070050": {
+    "riverID": 280393734,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 35,
+    "nameStatus": "missing_network"
+  },
+  "2040070510": {
+    "riverID": 280461804,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040066490": {
+    "riverID": 280317574,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085500": {
+    "riverID": 280324615,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 180,
+    "nameStatus": "missing_network"
+  },
+  "2040085690": {
+    "riverID": 280445658,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040067750": {
+    "riverID": 280353126,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040068680": {
+    "riverID": 280391126,
+    "riverName": "Volga",
+    "nameLinkno": 280274809,
+    "nameSteps": 74,
+    "nameStatus": "named"
+  },
+  "2040068710": {
+    "riverID": 280310550,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 47,
+    "nameStatus": "missing_network"
+  },
+  "2040068720": {
+    "riverID": 280346286,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "2040069150": {
+    "riverID": 280327915,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040292580": {
+    "riverID": 280736363,
+    "riverName": "Volga",
+    "nameLinkno": 280274809,
+    "nameSteps": 654,
+    "nameStatus": "named"
+  },
+  "2040292690": {
+    "riverID": 280744430,
+    "riverName": "Sura",
+    "nameLinkno": 280773229,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "2040309560": {
+    "riverID": 280699537,
+    "riverName": "Volga",
+    "nameLinkno": 280274809,
+    "nameSteps": 537,
+    "nameStatus": "named"
+  },
+  "2040309610": {
+    "riverID": 280677652,
+    "riverName": "Kama",
+    "nameLinkno": 280785943,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "2040067280": {
+    "riverID": 280315173,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 5,
+    "nameStatus": "missing_network"
+  },
+  "2040067570": {
+    "riverID": 280415324,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 7,
+    "nameStatus": "missing_network"
+  },
+  "2040067650": {
+    "riverID": 280417628,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 25,
+    "nameStatus": "missing_network"
+  },
+  "2040067740": {
+    "riverID": 280389987,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "2040077470": {
+    "riverID": 290606418,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "2040077570": {
+    "riverID": 290533496,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040078500": {
+    "riverID": 290356202,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040078750": {
+    "riverID": 290283322,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085520": {
+    "riverID": 290416572,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 146,
+    "nameStatus": "missing_network"
+  },
+  "2040085670": {
+    "riverID": 290460599,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 38,
+    "nameStatus": "missing_network"
+  },
+  "2040085710": {
+    "riverID": 290649020,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085760": {
+    "riverID": 290353469,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040785890": {
+    "riverID": 291311675,
+    "riverName": "Euphrates",
+    "nameLinkno": 291146671,
+    "nameSteps": 82,
+    "nameStatus": "named"
+  },
+  "2040785900": {
+    "riverID": 291275933,
+    "riverName": "Euphrates",
+    "nameLinkno": 291146671,
+    "nameSteps": 59,
+    "nameStatus": "named"
+  },
+  "2040816320": {
+    "riverID": 291182443,
+    "riverName": "Tigris",
+    "nameLinkno": 291182443,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040816390": {
+    "riverID": 291146671,
+    "riverName": "Euphrates",
+    "nameLinkno": 291146671,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "2040816870": {
+    "riverID": 291238840,
+    "riverName": "Tigris",
+    "nameLinkno": 291182443,
+    "nameSteps": 23,
+    "nameStatus": "named"
+  },
+  "2040828780": {
+    "riverID": 291170089,
+    "riverName": "Shat-Al-Arab",
+    "nameLinkno": 291153602,
+    "nameSteps": 22,
+    "nameStatus": "named"
+  },
+  "2040828790": {
+    "riverID": 291252650,
+    "riverName": "Shat-Al-Arab",
+    "nameLinkno": 291153602,
+    "nameSteps": 23,
+    "nameStatus": "named"
+  },
+  "2040085850": {
+    "riverID": 291267745,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085940": {
+    "riverID": 291108254,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085990": {
+    "riverID": 290256020,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040816860": {
+    "riverID": 291242990,
+    "riverName": "Shat-Al-Arab",
+    "nameLinkno": 291153602,
+    "nameSteps": 41,
+    "nameStatus": "named"
+  },
+  "2040071260": {
+    "riverID": 290789184,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "2040071700": {
+    "riverID": 290578670,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085530": {
+    "riverID": 291276023,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 38,
+    "nameStatus": "missing_network"
+  },
+  "2040085550": {
+    "riverID": 291091766,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085620": {
+    "riverID": 291175580,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085630": {
+    "riverID": 291069791,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085750": {
+    "riverID": 291123368,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085820": {
+    "riverID": 291185255,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085830": {
+    "riverID": 291058463,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040086100": {
+    "riverID": 291218152,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040086240": {
+    "riverID": 291130170,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040084120": {
+    "riverID": 290833192,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "2040085720": {
+    "riverID": 291240135,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040072590": {
+    "riverID": 290908819,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040072920": {
+    "riverID": 291105531,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085570": {
+    "riverID": 290840992,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085590": {
+    "riverID": 290911190,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085700": {
+    "riverID": 291179639,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085730": {
+    "riverID": 291170006,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085740": {
+    "riverID": 290913945,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085780": {
+    "riverID": 290860275,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085930": {
+    "riverID": 291090339,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040073580": {
+    "riverID": 291116442,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "2040075160": {
+    "riverID": 290726030,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 42,
+    "nameStatus": "missing_network"
+  },
+  "2040085650": {
+    "riverID": 290676537,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 147,
+    "nameStatus": "missing_network"
+  },
+  "2040085510": {
+    "riverID": 290664146,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 141,
+    "nameStatus": "missing_network"
+  },
+  "2040085580": {
+    "riverID": 290904703,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040085660": {
+    "riverID": 290756271,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "2040086170": {
+    "riverID": 290712270,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "3040001850": {
+    "riverID": 310518358,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 9,
+    "nameStatus": "missing_network"
+  },
+  "3040002000": {
+    "riverID": 310446942,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 7,
+    "nameStatus": "missing_network"
+  },
+  "3040002560": {
+    "riverID": 310343675,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "3040002680": {
+    "riverID": 310391304,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 22,
+    "nameStatus": "missing_network"
+  },
+  "3040002870": {
+    "riverID": 310288091,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "3040002880": {
+    "riverID": 310228335,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "3040001840": {
+    "riverID": 310450853,
+    "riverName": "Ob",
+    "nameLinkno": 310363561,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "3040203170": {
+    "riverID": 310562136,
+    "riverName": "Ob",
+    "nameLinkno": 310363561,
+    "nameSteps": 131,
+    "nameStatus": "named"
+  },
+  "3040203310": {
+    "riverID": 310502482,
+    "riverName": "Ob",
+    "nameLinkno": 310363561,
+    "nameSteps": 64,
+    "nameStatus": "named"
+  },
+  "3040481930": {
+    "riverID": 310719307,
+    "riverName": "Irtysh",
+    "nameLinkno": 310582199,
+    "nameSteps": 153,
+    "nameStatus": "named"
+  },
+  "3040496490": {
+    "riverID": 310715371,
+    "riverName": "Irtysh",
+    "nameLinkno": 310582199,
+    "nameSteps": 231,
+    "nameStatus": "named"
+  },
+  "3040024350": {
+    "riverID": 310610426,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "3040003790": {
+    "riverID": 320167179,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "3040004740": {
+    "riverID": 320184490,
+    "riverName": "Yenesei",
+    "nameLinkno": 320185642,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "3040005440": {
+    "riverID": 320162521,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "3040215990": {
+    "riverID": 320394315,
+    "riverName": "Nizhnyaya Tunguska",
+    "nameLinkno": 320394315,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "3040216320": {
+    "riverID": 320328653,
+    "riverName": "Yenesei",
+    "nameLinkno": 320185642,
+    "nameSteps": 172,
+    "nameStatus": "named"
+  },
+  "3040483880": {
+    "riverID": 320383120,
+    "riverName": "Yenesei",
+    "nameLinkno": 320185642,
+    "nameSteps": 492,
+    "nameStatus": "named"
+  },
+  "3040483980": {
+    "riverID": 320320914,
+    "riverName": "Yenesei",
+    "nameLinkno": 320185642,
+    "nameSteps": 493,
+    "nameStatus": "named"
+  },
+  "3040009130": {
+    "riverID": 340150971,
+    "riverName": "Lena",
+    "nameLinkno": 340058932,
+    "nameSteps": 14,
+    "nameStatus": "named"
+  },
+  "3040264560": {
+    "riverID": 340453448,
+    "riverName": "Lena",
+    "nameLinkno": 340058932,
+    "nameSteps": 358,
+    "nameStatus": "named"
+  },
+  "3040264710": {
+    "riverID": 340519697,
+    "riverName": "Vilyuy",
+    "nameLinkno": 340449768,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "3040299300": {
+    "riverID": 340512403,
+    "riverName": "Aldan",
+    "nameLinkno": 340512403,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "3040411570": {
+    "riverID": 340457466,
+    "riverName": "Lena",
+    "nameLinkno": 340058932,
+    "nameSteps": 662,
+    "nameStatus": "named"
+  },
+  "3040411580": {
+    "riverID": 340461147,
+    "riverName": "Olyokma",
+    "nameLinkno": 340461147,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "3040441450": {
+    "riverID": 340474101,
+    "riverName": "Vitim",
+    "nameLinkno": 340474101,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "3040441670": {
+    "riverID": 340409705,
+    "riverName": "Lena",
+    "nameLinkno": 340058932,
+    "nameSteps": 867,
+    "nameStatus": "named"
+  },
+  "3040024310": {
+    "riverID": 360078283,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040005050": {
+    "riverID": 410071476,
+    "riverName": "Han",
+    "nameLinkno": 410061229,
+    "nameSteps": 11,
+    "nameStatus": "named"
+  },
+  "4040005060": {
+    "riverID": 410150217,
+    "riverName": "Yalu",
+    "nameLinkno": 410153292,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "4040005710": {
+    "riverID": 410153288,
+    "riverName": "Yalu",
+    "nameLinkno": 410153292,
+    "nameSteps": 6,
+    "nameStatus": "named"
+  },
+  "4040006520": {
+    "riverID": 410223913,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040006570": {
+    "riverID": 410238238,
+    "riverName": "Liao",
+    "nameLinkno": 410239262,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "4040006580": {
+    "riverID": 410253602,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050260": {
+    "riverID": 410846189,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040000010": {
+    "riverID": 410327735,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040000880": {
+    "riverID": 410642174,
+    "riverName": "Amur",
+    "nameLinkno": 410663685,
+    "nameSteps": 11,
+    "nameStatus": "named"
+  },
+  "4040000890": {
+    "riverID": 410326240,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040136170": {
+    "riverID": 410692478,
+    "riverName": "Zeya",
+    "nameLinkno": 410692478,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040136250": {
+    "riverID": 410694526,
+    "riverName": "Amur",
+    "nameLinkno": 410663685,
+    "nameSteps": 519,
+    "nameStatus": "named"
+  },
+  "4040169390": {
+    "riverID": 410829772,
+    "riverName": "Amur",
+    "nameLinkno": 410663685,
+    "nameSteps": 262,
+    "nameStatus": "named"
+  },
+  "4040169400": {
+    "riverID": 410766288,
+    "riverName": "Ussuri",
+    "nameLinkno": 410821580,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "4040186730": {
+    "riverID": 410851309,
+    "riverName": "Amur",
+    "nameLinkno": 410663685,
+    "nameSteps": 322,
+    "nameStatus": "named"
+  },
+  "4040186800": {
+    "riverID": 410800113,
+    "riverName": "Songhua",
+    "nameLinkno": 410849261,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "4040012990": {
+    "riverID": 420427778,
+    "riverName": "Xi",
+    "nameLinkno": 420385803,
+    "nameSteps": 9,
+    "nameStatus": "named"
+  },
+  "4040013000": {
+    "riverID": 420075587,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040007080": {
+    "riverID": 420583803,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040007410": {
+    "riverID": 420673932,
+    "riverName": "Hai",
+    "nameLinkno": 420673932,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040007660": {
+    "riverID": 420687281,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "4040007850": {
+    "riverID": 420711866,
+    "riverName": "Yellow",
+    "nameLinkno": 420711866,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040548260": {
+    "riverID": 420800982,
+    "riverName": "Yellow",
+    "nameLinkno": 420711866,
+    "nameSteps": 381,
+    "nameStatus": "named"
+  },
+  "4040548370": {
+    "riverID": 420804054,
+    "riverName": "Yellow",
+    "nameLinkno": 420711866,
+    "nameSteps": 380,
+    "nameStatus": "named"
+  },
+  "4040578640": {
+    "riverID": 420717049,
+    "riverName": "Yellow",
+    "nameLinkno": 420711866,
+    "nameSteps": 1157,
+    "nameStatus": "named"
+  },
+  "4040578830": {
+    "riverID": 420743674,
+    "riverName": "Yellow",
+    "nameLinkno": 420711866,
+    "nameSteps": 1157,
+    "nameStatus": "named"
+  },
+  "4040603570": {
+    "riverID": 420797972,
+    "riverName": "Yellow",
+    "nameLinkno": 420711866,
+    "nameSteps": 284,
+    "nameStatus": "named"
+  },
+  "4040627250": {
+    "riverID": 421024306,
+    "riverName": "Yellow",
+    "nameLinkno": 420711866,
+    "nameSteps": 258,
+    "nameStatus": "named"
+  },
+  "4040627620": {
+    "riverID": 421067315,
+    "riverName": "Yellow",
+    "nameLinkno": 420711866,
+    "nameSteps": 258,
+    "nameStatus": "named"
+  },
+  "4040050550": {
+    "riverID": 420625799,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040007860": {
+    "riverID": 420953656,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040009890": {
+    "riverID": 420690805,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040011690": {
+    "riverID": 420612021,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040012280": {
+    "riverID": 420598739,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "4040012770": {
+    "riverID": 420585449,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 6,
+    "nameStatus": "missing_network"
+  },
+  "4040009880": {
+    "riverID": 420808344,
+    "riverName": "Yangtze",
+    "nameLinkno": 420826775,
+    "nameSteps": 6,
+    "nameStatus": "named"
+  },
+  "4040015000": {
+    "riverID": 420047953,
+    "riverName": "Red",
+    "nameLinkno": 420036692,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "4040694190": {
+    "riverID": 420840074,
+    "riverName": "Yangtze",
+    "nameLinkno": 420826775,
+    "nameSteps": 35,
+    "nameStatus": "named"
+  },
+  "4040748300": {
+    "riverID": 420747980,
+    "riverName": "Han",
+    "nameLinkno": 420747980,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040748310": {
+    "riverID": 420781773,
+    "riverName": "Lower Yangtze",
+    "nameLinkno": 420828907,
+    "nameSteps": 49,
+    "nameStatus": "named"
+  },
+  "4040773130": {
+    "riverID": 420826859,
+    "riverName": "Lower Yangtze",
+    "nameLinkno": 420828907,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "4040783120": {
+    "riverID": 420797175,
+    "riverName": "Lower Yangtze",
+    "nameLinkno": 420828907,
+    "nameSteps": 80,
+    "nameStatus": "named"
+  },
+  "4040017030": {
+    "riverID": 430483961,
+    "riverName": "Chao Praya",
+    "nameLinkno": 430483961,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040023060": {
+    "riverID": 430589339,
+    "riverName": "Salween",
+    "nameLinkno": 430528936,
+    "nameSteps": 15,
+    "nameStatus": "named"
+  },
+  "4040023220": {
+    "riverID": 430519684,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "4040023810": {
+    "riverID": 430563729,
+    "riverName": "Irrawaddy",
+    "nameLinkno": 430527914,
+    "nameSteps": 22,
+    "nameStatus": "named"
+  },
+  "4040015090": {
+    "riverID": 430206554,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 5,
+    "nameStatus": "missing_network"
+  },
+  "4040017020": {
+    "riverID": 430277204,
+    "riverName": "Mekong",
+    "nameLinkno": 430157411,
+    "nameSteps": 39,
+    "nameStatus": "named"
+  },
+  "4041043580": {
+    "riverID": 430505262,
+    "riverName": "Mekong",
+    "nameLinkno": 430157411,
+    "nameSteps": 593,
+    "nameStatus": "named"
+  },
+  "4041043590": {
+    "riverID": 430486831,
+    "riverName": "Nam Ou",
+    "nameLinkno": 430486831,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4041108500": {
+    "riverID": 430484931,
+    "riverName": "Mekong",
+    "nameLinkno": 430157411,
+    "nameSteps": 197,
+    "nameStatus": "named"
+  },
+  "4041108580": {
+    "riverID": 430482883,
+    "riverName": "Nam Mun",
+    "nameLinkno": 430482883,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4041128230": {
+    "riverID": 430458362,
+    "riverName": "Mekong",
+    "nameLinkno": 430157411,
+    "nameSteps": 125,
+    "nameStatus": "named"
+  },
+  "4041128330": {
+    "riverID": 430475771,
+    "riverName": "Se San",
+    "nameLinkno": 430475771,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4041144860": {
+    "riverID": 430341687,
+    "riverName": "Mekong",
+    "nameLinkno": 430157411,
+    "nameSteps": 53,
+    "nameStatus": "named"
+  },
+  "4041144880": {
+    "riverID": 430308918,
+    "riverName": "Tonte Sap",
+    "nameLinkno": 430308918,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040024190": {
+    "riverID": 440673594,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040025450": {
+    "riverID": 440977571,
+    "riverName": "Ganges/Padma",
+    "nameLinkno": 441057380,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "4040838850": {
+    "riverID": 441141113,
+    "riverName": "Brahmaputra",
+    "nameLinkno": 441142665,
+    "nameSteps": 281,
+    "nameStatus": "named"
+  },
+  "4040839030": {
+    "riverID": 441178266,
+    "riverName": "Brahmaputra",
+    "nameLinkno": 441142665,
+    "nameSteps": 296,
+    "nameStatus": "named"
+  },
+  "4040865800": {
+    "riverID": 441131520,
+    "riverName": "Brahmaputra",
+    "nameLinkno": 441142665,
+    "nameSteps": 226,
+    "nameStatus": "named"
+  },
+  "4040865930": {
+    "riverID": 441167299,
+    "riverName": "Brahmaputra",
+    "nameLinkno": 441142665,
+    "nameSteps": 224,
+    "nameStatus": "named"
+  },
+  "4040960200": {
+    "riverID": 441077990,
+    "riverName": "Brahmaputra",
+    "nameLinkno": 441142665,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "4040960480": {
+    "riverID": 441031210,
+    "riverName": "Ganges/Padma",
+    "nameLinkno": 441057380,
+    "nameSteps": 32,
+    "nameStatus": "named"
+  },
+  "4040975150": {
+    "riverID": 440954175,
+    "riverName": "Ganges/Padma",
+    "nameLinkno": 441057380,
+    "nameSteps": 8,
+    "nameStatus": "named"
+  },
+  "4040975160": {
+    "riverID": 440994080,
+    "riverName": "Ganges/Padma",
+    "nameLinkno": 441057380,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "4040027940": {
+    "riverID": 440259627,
+    "riverName": "Krishna",
+    "nameLinkno": 440262380,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "4040027950": {
+    "riverID": 440269312,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040028760": {
+    "riverID": 440149765,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "4040048900": {
+    "riverID": 440096210,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040027100": {
+    "riverID": 440608930,
+    "riverName": "Mahanadi",
+    "nameLinkno": 440662596,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "4040027110": {
+    "riverID": 440483802,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "4040027780": {
+    "riverID": 440353154,
+    "riverName": "Godavari",
+    "nameLinkno": 440393057,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "4040027790": {
+    "riverID": 440305008,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040029530": {
+    "riverID": 440780871,
+    "riverName": "Narmada",
+    "nameLinkno": 440786375,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "4040031820": {
+    "riverID": 441087687,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "4040032410": {
+    "riverID": 440830417,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040032880": {
+    "riverID": 441043624,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "4040033440": {
+    "riverID": 441055973,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040033430": {
+    "riverID": 441047715,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "4040033640": {
+    "riverID": 441009179,
+    "riverName": "Indus",
+    "nameLinkno": 441077984,
+    "nameSteps": 6,
+    "nameStatus": "named"
+  },
+  "4040033650": {
+    "riverID": 441139836,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040607260": {
+    "riverID": 440374354,
+    "riverName": "Shyok",
+    "nameLinkno": 440374354,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040648310": {
+    "riverID": 440532652,
+    "riverName": "Kabul",
+    "nameLinkno": 440532652,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040648320": {
+    "riverID": 440539532,
+    "riverName": "Indus",
+    "nameLinkno": 441077984,
+    "nameSteps": 446,
+    "nameStatus": "named"
+  },
+  "4040879040": {
+    "riverID": 441164566,
+    "riverName": "Indus",
+    "nameLinkno": 441077984,
+    "nameSteps": 84,
+    "nameStatus": "named"
+  },
+  "4040879050": {
+    "riverID": 441226485,
+    "riverName": "Indus",
+    "nameLinkno": 441077984,
+    "nameSteps": 85,
+    "nameStatus": "named"
+  },
+  "4040037060": {
+    "riverID": 450155784,
+    "riverName": "Ishikari",
+    "nameLinkno": 450155784,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "4040449660": {
+    "riverID": 460250519,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "4040050270": {
+    "riverID": 460311853,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050280": {
+    "riverID": 460235052,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040416190": {
+    "riverID": 460260759,
+    "riverName": "Tarim",
+    "nameLinkno": 460237273,
+    "nameSteps": 165,
+    "nameStatus": "named"
+  },
+  "4040438030": {
+    "riverID": 460243884,
+    "riverName": "Tarim",
+    "nameLinkno": 460237273,
+    "nameSteps": 295,
+    "nameStatus": "named"
+  },
+  "4040438130": {
+    "riverID": 460243880,
+    "riverName": "Tarim",
+    "nameLinkno": 460237273,
+    "nameSteps": 293,
+    "nameStatus": "named"
+  },
+  "4040449990": {
+    "riverID": 460236537,
+    "riverName": "Tarim",
+    "nameLinkno": 460237273,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "4040223160": {
+    "riverID": 470567067,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 5,
+    "nameStatus": "missing_network"
+  },
+  "4040223260": {
+    "riverID": 470549149,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 5,
+    "nameStatus": "missing_network"
+  },
+  "4040225090": {
+    "riverID": 470604001,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 40,
+    "nameStatus": "missing_network"
+  },
+  "4040234270": {
+    "riverID": 470541340,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 25,
+    "nameStatus": "missing_network"
+  },
+  "4040234430": {
+    "riverID": 470560379,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 22,
+    "nameStatus": "missing_network"
+  },
+  "4040298550": {
+    "riverID": 470522404,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 95,
+    "nameStatus": "missing_network"
+  },
+  "4040298640": {
+    "riverID": 470524645,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 95,
+    "nameStatus": "missing_network"
+  },
+  "4040050230": {
+    "riverID": 470582748,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050330": {
+    "riverID": 470573803,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050250": {
+    "riverID": 470488554,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050730": {
+    "riverID": 470514461,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050240": {
+    "riverID": 470555891,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 21,
+    "nameStatus": "missing_network"
+  },
+  "4040050300": {
+    "riverID": 470461881,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050310": {
+    "riverID": 470552584,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050360": {
+    "riverID": 470530281,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 16,
+    "nameStatus": "missing_network"
+  },
+  "4040273960": {
+    "riverID": 470450680,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 11,
+    "nameStatus": "missing_network"
+  },
+  "4040274280": {
+    "riverID": 470469723,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "4040274300": {
+    "riverID": 470440608,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 16,
+    "nameStatus": "missing_network"
+  },
+  "4040484700": {
+    "riverID": 470272921,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 30,
+    "nameStatus": "missing_network"
+  },
+  "4040484760": {
+    "riverID": 470230423,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 224,
+    "nameStatus": "missing_network"
+  },
+  "4040545530": {
+    "riverID": 470201428,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 409,
+    "nameStatus": "missing_network"
+  },
+  "4040545690": {
+    "riverID": 470202550,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 409,
+    "nameStatus": "missing_network"
+  },
+  "4040050220": {
+    "riverID": 470460764,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040482720": {
+    "riverID": 470244978,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 221,
+    "nameStatus": "missing_network"
+  },
+  "4040050830": {
+    "riverID": 480273014,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050900": {
+    "riverID": 480438821,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050290": {
+    "riverID": 480376463,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050340": {
+    "riverID": 480476372,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050440": {
+    "riverID": 480381075,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050480": {
+    "riverID": 480260003,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050590": {
+    "riverID": 480498663,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050700": {
+    "riverID": 480096561,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050740": {
+    "riverID": 480524763,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050320": {
+    "riverID": 480256167,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 10,
+    "nameStatus": "missing_network"
+  },
+  "4040050380": {
+    "riverID": 480195551,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050390": {
+    "riverID": 480440305,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050430": {
+    "riverID": 480451744,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050450": {
+    "riverID": 480279970,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050790": {
+    "riverID": 480252270,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050470": {
+    "riverID": 490083142,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050610": {
+    "riverID": 490095273,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050780": {
+    "riverID": 490080834,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050810": {
+    "riverID": 490092655,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050910": {
+    "riverID": 490070227,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040003690": {
+    "riverID": 510088411,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "5040004220": {
+    "riverID": 510102300,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 7,
+    "nameStatus": "missing_network"
+  },
+  "5040005140": {
+    "riverID": 510123170,
+    "riverName": "Musi",
+    "nameLinkno": 510088741,
+    "nameSteps": 7,
+    "nameStatus": "named"
+  },
+  "5040007690": {
+    "riverID": 510175797,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040015660": {
+    "riverID": 520239952,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "5040015820": {
+    "riverID": 520357052,
+    "riverName": "Barito",
+    "nameLinkno": 520164806,
+    "nameSteps": 44,
+    "nameStatus": "named"
+  },
+  "5040041230": {
+    "riverID": 530168858,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040041870": {
+    "riverID": 530146880,
+    "riverName": "Fly",
+    "nameLinkno": 530146880,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "5040046910": {
+    "riverID": 530077460,
+    "riverName": "Mamberamo",
+    "nameLinkno": 530060936,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "5040047720": {
+    "riverID": 530186378,
+    "riverName": "Sepik",
+    "nameLinkno": 530186378,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "5040056740": {
+    "riverID": 541977735,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "5040057720": {
+    "riverID": 541219418,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087740": {
+    "riverID": 541710351,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087660": {
+    "riverID": 541716801,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087760": {
+    "riverID": 541777618,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087810": {
+    "riverID": 541777555,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087840": {
+    "riverID": 541785432,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040059440": {
+    "riverID": 541031165,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 9,
+    "nameStatus": "missing_network"
+  },
+  "5040087640": {
+    "riverID": 541395491,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087750": {
+    "riverID": 541166981,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040069960": {
+    "riverID": 541819030,
+    "riverName": "Burnett",
+    "nameLinkno": 541796180,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "5040070700": {
+    "riverID": 541824587,
+    "riverName": "Clarence",
+    "nameLinkno": 541824587,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "5040077640": {
+    "riverID": 540131603,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "5040087630": {
+    "riverID": 541719812,
+    "riverName": "Darling",
+    "nameLinkno": 540871873,
+    "nameSteps": 141,
+    "nameStatus": "named"
+  },
+  "5040511420": {
+    "riverID": 541761416,
+    "riverName": "Darling",
+    "nameLinkno": 540871873,
+    "nameSteps": 248,
+    "nameStatus": "named"
+  },
+  "5040511570": {
+    "riverID": 541772168,
+    "riverName": "Darling",
+    "nameLinkno": 540871873,
+    "nameSteps": 248,
+    "nameStatus": "named"
+  },
+  "5040524870": {
+    "riverID": 541834015,
+    "riverName": "Darling",
+    "nameLinkno": 540871873,
+    "nameSteps": 213,
+    "nameStatus": "named"
+  },
+  "5040591010": {
+    "riverID": 541309961,
+    "riverName": "Darling",
+    "nameLinkno": 540871873,
+    "nameSteps": 57,
+    "nameStatus": "named"
+  },
+  "5040591050": {
+    "riverID": 540889346,
+    "riverName": "Murray",
+    "nameLinkno": 540510389,
+    "nameSteps": 181,
+    "nameStatus": "named"
+  },
+  "5040491510": {
+    "riverID": 541906493,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040524780": {
+    "riverID": 541770846,
+    "riverName": "Darling",
+    "nameLinkno": 540871873,
+    "nameSteps": 214,
+    "nameStatus": "named"
+  },
+  "5040055960": {
+    "riverID": 540943113,
+    "riverName": "Blackwood",
+    "nameLinkno": 540943113,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "5040056460": {
+    "riverID": 541527664,
+    "riverName": "Swan",
+    "nameLinkno": 541527664,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "5040087690": {
+    "riverID": 541692942,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040059450": {
+    "riverID": 540664159,
+    "riverName": "Victoria",
+    "nameLinkno": 540618461,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "5040061660": {
+    "riverID": 540715241,
+    "riverName": "Victoria",
+    "nameLinkno": 540618461,
+    "nameSteps": 18,
+    "nameStatus": "named"
+  },
+  "5040064130": {
+    "riverID": 540605006,
+    "riverName": "Roper",
+    "nameLinkno": 540615757,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "5040087600": {
+    "riverID": 541170984,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087620": {
+    "riverID": 541101100,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087780": {
+    "riverID": 541044615,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087670": {
+    "riverID": 541750432,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087710": {
+    "riverID": 541846024,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087730": {
+    "riverID": 541792060,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040087800": {
+    "riverID": 541868810,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040088170": {
+    "riverID": 541781396,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040065600": {
+    "riverID": 541035197,
+    "riverName": "Flinders",
+    "nameLinkno": 541019067,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "5040068450": {
+    "riverID": 541271826,
+    "riverName": "Burdekin",
+    "nameLinkno": 541136078,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "5040087590": {
+    "riverID": 541860833,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "5040324520": {
+    "riverID": 541585028,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 335,
+    "nameStatus": "missing_network"
+  },
+  "5040324690": {
+    "riverID": 541555474,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 391,
+    "nameStatus": "missing_network"
+  },
+  "5040455970": {
+    "riverID": 541854049,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 122,
+    "nameStatus": "missing_network"
+  },
+  "5040456070": {
+    "riverID": 541856739,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 124,
+    "nameStatus": "missing_network"
+  },
+  "5040087610": {
+    "riverID": 541730503,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040082270": {
+    "riverID": 570043603,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "5040085040": {
+    "riverID": 570036000,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040000010": {
+    "riverID": 610247613,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040000740": {
+    "riverID": 610125195,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040004480": {
+    "riverID": 610296949,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040004870": {
+    "riverID": 610366593,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "6040004880": {
+    "riverID": 610394766,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040005180": {
+    "riverID": 610465194,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "6040005190": {
+    "riverID": 610413272,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040005490": {
+    "riverID": 610443207,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 6,
+    "nameStatus": "missing_network"
+  },
+  "6040006470": {
+    "riverID": 610065949,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 6,
+    "nameStatus": "missing_network"
+  },
+  "6040004470": {
+    "riverID": 610322463,
+    "riverName": "Orinoco",
+    "nameLinkno": 610288141,
+    "nameSteps": 15,
+    "nameStatus": "named"
+  },
+  "6040075390": {
+    "riverID": 610313678,
+    "riverName": "Orinoco",
+    "nameLinkno": 610288141,
+    "nameSteps": 51,
+    "nameStatus": "named"
+  },
+  "6040075410": {
+    "riverID": 610329519,
+    "riverName": "Caroni",
+    "nameLinkno": 610329519,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040084750": {
+    "riverID": 610362119,
+    "riverName": "Orinoco",
+    "nameLinkno": 610288141,
+    "nameSteps": 182,
+    "nameStatus": "named"
+  },
+  "6040084790": {
+    "riverID": 610343645,
+    "riverName": "Orinoco",
+    "nameLinkno": 610288141,
+    "nameSteps": 182,
+    "nameStatus": "named"
+  },
+  "6040102250": {
+    "riverID": 610407967,
+    "riverName": "Meta",
+    "nameLinkno": 610407967,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040102330": {
+    "riverID": 610375408,
+    "riverName": "Orinoco",
+    "nameLinkno": 610288141,
+    "nameSteps": 231,
+    "nameStatus": "named"
+  },
+  "6040134450": {
+    "riverID": 610391378,
+    "riverName": "Orinoco",
+    "nameLinkno": 610288141,
+    "nameSteps": 323,
+    "nameStatus": "named"
+  },
+  "6040134460": {
+    "riverID": 610428336,
+    "riverName": "Orinoco",
+    "nameLinkno": 610288141,
+    "nameSteps": 324,
+    "nameStatus": "named"
+  },
+  "6040007010": {
+    "riverID": 621070912,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040239820": {
+    "riverID": 621139693,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 24,
+    "nameStatus": "missing_network"
+  },
+  "6040239720": {
+    "riverID": 621051605,
+    "riverName": "Amazon",
+    "nameLinkno": 621010293,
+    "nameSteps": 15,
+    "nameStatus": "named"
+  },
+  "6040262110": {
+    "riverID": 621064055,
+    "riverName": "Amazon",
+    "nameLinkno": 621010293,
+    "nameSteps": 81,
+    "nameStatus": "named"
+  },
+  "6040262220": {
+    "riverID": 620993881,
+    "riverName": "Tapajos",
+    "nameLinkno": 621047548,
+    "nameSteps": 7,
+    "nameStatus": "named"
+  },
+  "6040285930": {
+    "riverID": 621057226,
+    "riverName": "Amazon",
+    "nameLinkno": 621010293,
+    "nameSteps": 197,
+    "nameStatus": "named"
+  },
+  "6040285990": {
+    "riverID": 621087502,
+    "riverName": "Amazon",
+    "nameLinkno": 621010293,
+    "nameSteps": 200,
+    "nameStatus": "named"
+  },
+  "6040007950": {
+    "riverID": 621042031,
+    "riverName": "Tocantins",
+    "nameLinkno": 621042031,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040007960": {
+    "riverID": 620989705,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040344540": {
+    "riverID": 621075223,
+    "riverName": "Tocantins",
+    "nameLinkno": 621042031,
+    "nameSteps": 132,
+    "nameStatus": "named"
+  },
+  "6040344660": {
+    "riverID": 621139896,
+    "riverName": "Tocantins",
+    "nameLinkno": 621042031,
+    "nameSteps": 133,
+    "nameStatus": "named"
+  },
+  "6040345000": {
+    "riverID": 621160536,
+    "riverName": "Tocantins",
+    "nameLinkno": 621042031,
+    "nameSteps": 153,
+    "nameStatus": "named"
+  },
+  "6040345180": {
+    "riverID": 621068345,
+    "riverName": "Tocantins",
+    "nameLinkno": 621042031,
+    "nameSteps": 153,
+    "nameStatus": "named"
+  },
+  "6040476790": {
+    "riverID": 621104360,
+    "riverName": "Tocantins",
+    "nameLinkno": 621042031,
+    "nameSteps": 397,
+    "nameStatus": "named"
+  },
+  "6040476800": {
+    "riverID": 621091976,
+    "riverName": "Tocantins",
+    "nameLinkno": 621042031,
+    "nameSteps": 397,
+    "nameStatus": "named"
+  },
+  "6040527670": {
+    "riverID": 621063182,
+    "riverName": "Tocantins",
+    "nameLinkno": 621042031,
+    "nameSteps": 440,
+    "nameStatus": "named"
+  },
+  "6040527680": {
+    "riverID": 620937967,
+    "riverName": "Tocantins",
+    "nameLinkno": 621042031,
+    "nameSteps": 440,
+    "nameStatus": "named"
+  },
+  "6040011780": {
+    "riverID": 630289205,
+    "riverName": "Sao Francisco",
+    "nameLinkno": 630272888,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "6040011790": {
+    "riverID": 630208503,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040012580": {
+    "riverID": 630206106,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040012590": {
+    "riverID": 630240427,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040012790": {
+    "riverID": 630265728,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040012800": {
+    "riverID": 630229902,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040013420": {
+    "riverID": 630215264,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040013750": {
+    "riverID": 630091305,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "6040510750": {
+    "riverID": 630292492,
+    "riverName": "Grande",
+    "nameLinkno": 630292492,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040510890": {
+    "riverID": 630286783,
+    "riverName": "Sao Francisco",
+    "nameLinkno": 630272888,
+    "nameSteps": 407,
+    "nameStatus": "named"
+  },
+  "6040562010": {
+    "riverID": 630242787,
+    "riverName": "Corrente",
+    "nameLinkno": 630207697,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "6040562020": {
+    "riverID": 630212598,
+    "riverName": "Sao Francisco",
+    "nameLinkno": 630272888,
+    "nameSteps": 455,
+    "nameStatus": "named"
+  },
+  "6040595200": {
+    "riverID": 630196331,
+    "riverName": "Sao Francisco",
+    "nameLinkno": 630272888,
+    "nameSteps": 493,
+    "nameStatus": "named"
+  },
+  "6040595210": {
+    "riverID": 630209382,
+    "riverName": "Verde Grande",
+    "nameLinkno": 630209382,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040639910": {
+    "riverID": 630246170,
+    "riverName": "Paracata",
+    "nameLinkno": 630246170,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040639920": {
+    "riverID": 630246986,
+    "riverName": "Sao Francisco",
+    "nameLinkno": 630272888,
+    "nameSteps": 556,
+    "nameStatus": "named"
+  },
+  "6040008320": {
+    "riverID": 630167358,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "6040334790": {
+    "riverID": 630321659,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 109,
+    "nameStatus": "missing_network"
+  },
+  "6040334800": {
+    "riverID": 630317579,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 109,
+    "nameStatus": "missing_network"
+  },
+  "6040372330": {
+    "riverID": 630382086,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 188,
+    "nameStatus": "missing_network"
+  },
+  "6040389860": {
+    "riverID": 630340490,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 243,
+    "nameStatus": "missing_network"
+  },
+  "6040401890": {
+    "riverID": 630344583,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 333,
+    "nameStatus": "missing_network"
+  },
+  "6040401900": {
+    "riverID": 630345399,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 333,
+    "nameStatus": "missing_network"
+  },
+  "6040016970": {
+    "riverID": 640255644,
+    "riverName": "Parana",
+    "nameLinkno": 640255644,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040752460": {
+    "riverID": 640609856,
+    "riverName": "Parana**",
+    "nameLinkno": 640502881,
+    "nameSteps": 147,
+    "nameStatus": "named"
+  },
+  "6040752470": {
+    "riverID": 640566084,
+    "riverName": "Paranapanema",
+    "nameLinkno": 640554569,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "6040870370": {
+    "riverID": 640399538,
+    "riverName": "Parana",
+    "nameLinkno": 640255644,
+    "nameSteps": 108,
+    "nameStatus": "named"
+  },
+  "6040870380": {
+    "riverID": 640455974,
+    "riverName": "Parana",
+    "nameLinkno": 640255644,
+    "nameSteps": 95,
+    "nameStatus": "named"
+  },
+  "6040040460": {
+    "riverID": 640549194,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040015570": {
+    "riverID": 640452489,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040015940": {
+    "riverID": 640417962,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040016720": {
+    "riverID": 640300544,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "6040016760": {
+    "riverID": 640416870,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 6,
+    "nameStatus": "missing_network"
+  },
+  "6040016770": {
+    "riverID": 640312047,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040019090": {
+    "riverID": 650262022,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "6040020000": {
+    "riverID": 650194895,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040020950": {
+    "riverID": 650215035,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040020960": {
+    "riverID": 650167905,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "6040040500": {
+    "riverID": 650225281,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040017380": {
+    "riverID": 650403460,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "6040017530": {
+    "riverID": 650393080,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 8,
+    "nameStatus": "missing_network"
+  },
+  "6040018850": {
+    "riverID": 650297182,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "6040018860": {
+    "riverID": 650288385,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040040530": {
+    "riverID": 650406676,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 50,
+    "nameStatus": "missing_network"
+  },
+  "6040862810": {
+    "riverID": 650104908,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 375,
+    "nameStatus": "missing_network"
+  },
+  "6040862860": {
+    "riverID": 650115308,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 375,
+    "nameStatus": "missing_network"
+  },
+  "6040877590": {
+    "riverID": 650102547,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 364,
+    "nameStatus": "missing_network"
+  },
+  "6040877660": {
+    "riverID": 650099348,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 364,
+    "nameStatus": "missing_network"
+  },
+  "6040913900": {
+    "riverID": 650372253,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 63,
+    "nameStatus": "missing_network"
+  },
+  "6040913910": {
+    "riverID": 650399473,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 167,
+    "nameStatus": "missing_network"
+  },
+  "6040933800": {
+    "riverID": 650365152,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 59,
+    "nameStatus": "missing_network"
+  },
+  "6040040510": {
+    "riverID": 650379459,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040024060": {
+    "riverID": 660118133,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "6040025410": {
+    "riverID": 660093427,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040025420": {
+    "riverID": 660112421,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040026760": {
+    "riverID": 660096822,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040026990": {
+    "riverID": 660100324,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040028290": {
+    "riverID": 660117790,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "6040029040": {
+    "riverID": 660207803,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040040470": {
+    "riverID": 660176789,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040032290": {
+    "riverID": 670063921,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040005420": {
+    "riverID": 710288885,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040006390": {
+    "riverID": 710235268,
+    "riverName": "Grande de Santiago",
+    "nameLinkno": 710235268,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040007380": {
+    "riverID": 710201327,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "7040007830": {
+    "riverID": 710256787,
+    "riverName": "Yaqui",
+    "nameLinkno": 710278609,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "7040007840": {
+    "riverID": 710343934,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040013170": {
+    "riverID": 710776130,
+    "riverName": "Salinas",
+    "nameLinkno": 710809857,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "7040013550": {
+    "riverID": 710803839,
+    "riverName": "Sacramento",
+    "nameLinkno": 710803838,
+    "nameSteps": 12,
+    "nameStatus": "named"
+  },
+  "7040014200": {
+    "riverID": 710758029,
+    "riverName": "Klamath",
+    "nameLinkno": 710797708,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "7040073630": {
+    "riverID": 711079525,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040073720": {
+    "riverID": 711000108,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040073780": {
+    "riverID": 710194483,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040008710": {
+    "riverID": 710464888,
+    "riverName": "Colorado",
+    "nameLinkno": 710431167,
+    "nameSteps": 11,
+    "nameStatus": "named"
+  },
+  "7040585110": {
+    "riverID": 710897078,
+    "riverName": "Green",
+    "nameLinkno": 710897078,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040607990": {
+    "riverID": 710839594,
+    "riverName": "Colorado",
+    "nameLinkno": 710431167,
+    "nameSteps": 622,
+    "nameStatus": "named"
+  },
+  "7040632150": {
+    "riverID": 710682909,
+    "riverName": "Colorado",
+    "nameLinkno": 710431167,
+    "nameSteps": 537,
+    "nameStatus": "named"
+  },
+  "7040707710": {
+    "riverID": 710514445,
+    "riverName": "Colorado",
+    "nameLinkno": 710431167,
+    "nameSteps": 38,
+    "nameStatus": "named"
+  },
+  "7040707810": {
+    "riverID": 710472783,
+    "riverName": "Gila",
+    "nameLinkno": 710474767,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "7040073620": {
+    "riverID": 710938579,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040073690": {
+    "riverID": 710760277,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040073710": {
+    "riverID": 710504497,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040014250": {
+    "riverID": 720174454,
+    "riverName": "Rogue",
+    "nameLinkno": 720174454,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040014930": {
+    "riverID": 720207783,
+    "riverName": "Columbia",
+    "nameLinkno": 720207783,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040016260": {
+    "riverID": 720215403,
+    "riverName": "Fraser River",
+    "nameLinkno": 720213432,
+    "nameSteps": 5,
+    "nameStatus": "named"
+  },
+  "7040379310": {
+    "riverID": 720221669,
+    "riverName": "Snake",
+    "nameLinkno": 720221669,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040379430": {
+    "riverID": 720203815,
+    "riverName": "Columbia",
+    "nameLinkno": 720207783,
+    "nameSteps": 164,
+    "nameStatus": "named"
+  },
+  "7040388580": {
+    "riverID": 720174090,
+    "riverName": "Snake",
+    "nameLinkno": 720221669,
+    "nameSteps": 103,
+    "nameStatus": "named"
+  },
+  "7040388740": {
+    "riverID": 720199887,
+    "riverName": "Snake",
+    "nameLinkno": 720221669,
+    "nameSteps": 103,
+    "nameStatus": "named"
+  },
+  "7040394680": {
+    "riverID": 720186018,
+    "riverName": "Willamette",
+    "nameLinkno": 720184033,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "7040394690": {
+    "riverID": 720164197,
+    "riverName": "Columbia",
+    "nameLinkno": 720207783,
+    "nameSteps": 22,
+    "nameStatus": "named"
+  },
+  "7040395190": {
+    "riverID": 720150307,
+    "riverName": "Columbia",
+    "nameLinkno": 720207783,
+    "nameSteps": 84,
+    "nameStatus": "named"
+  },
+  "7040395340": {
+    "riverID": 720146339,
+    "riverName": "Deschutes",
+    "nameLinkno": 720146339,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040016270": {
+    "riverID": 720143453,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040019010": {
+    "riverID": 720175193,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 11,
+    "nameStatus": "missing_network"
+  },
+  "7040019190": {
+    "riverID": 720131459,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 5,
+    "nameStatus": "missing_network"
+  },
+  "7040020090": {
+    "riverID": 720180883,
+    "riverName": "Stikine",
+    "nameLinkno": 720131290,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "7040020100": {
+    "riverID": 720131092,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "7040021740": {
+    "riverID": 730134536,
+    "riverName": "Churchill",
+    "nameLinkno": 730140925,
+    "nameSteps": 9,
+    "nameStatus": "named"
+  },
+  "7040022250": {
+    "riverID": 730231970,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 6,
+    "nameStatus": "named"
+  },
+  "7040192420": {
+    "riverID": 730412757,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 296,
+    "nameStatus": "named"
+  },
+  "7040192560": {
+    "riverID": 730480629,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 281,
+    "nameStatus": "named"
+  },
+  "7040194860": {
+    "riverID": 730465243,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 478,
+    "nameStatus": "named"
+  },
+  "7040194980": {
+    "riverID": 730408927,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 478,
+    "nameStatus": "named"
+  },
+  "7040256540": {
+    "riverID": 730461603,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 758,
+    "nameStatus": "named"
+  },
+  "7040256690": {
+    "riverID": 730452645,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 758,
+    "nameStatus": "named"
+  },
+  "7040282720": {
+    "riverID": 730386169,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 839,
+    "nameStatus": "named"
+  },
+  "7040282770": {
+    "riverID": 730407933,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 838,
+    "nameStatus": "named"
+  },
+  "7040022240": {
+    "riverID": 730251165,
+    "riverName": "Nelson",
+    "nameLinkno": 730231962,
+    "nameSteps": 5,
+    "nameStatus": "named"
+  },
+  "7040021620": {
+    "riverID": 730108900,
+    "riverName": "Seal",
+    "nameLinkno": 730108900,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040021690": {
+    "riverID": 730110195,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040021750": {
+    "riverID": 730148686,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040022270": {
+    "riverID": 730234519,
+    "riverName": "Hayes",
+    "nameLinkno": 730234519,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040022840": {
+    "riverID": 730296049,
+    "riverName": "Severn",
+    "nameLinkno": 730279402,
+    "nameSteps": 3,
+    "nameStatus": "named"
+  },
+  "7040022850": {
+    "riverID": 730279402,
+    "riverName": "Severn",
+    "nameLinkno": 730279402,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040024290": {
+    "riverID": 730516530,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "7040024580": {
+    "riverID": 730480773,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "7040031720": {
+    "riverID": 740547734,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040032940": {
+    "riverID": 740498003,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 6,
+    "nameStatus": "missing_network"
+  },
+  "7040033110": {
+    "riverID": 740370358,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "7040033480": {
+    "riverID": 740546542,
+    "riverName": "Saguenay",
+    "nameLinkno": 740546542,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040034530": {
+    "riverID": 740394842,
+    "riverName": "St John",
+    "nameLinkno": 740394842,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040034520": {
+    "riverID": 740599039,
+    "riverName": "St. Lawrence",
+    "nameLinkno": 740599039,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040374800": {
+    "riverID": 740703896,
+    "riverName": "St. Maurice",
+    "nameLinkno": 740703896,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040374950": {
+    "riverID": 740660891,
+    "riverName": "St. Lawrence",
+    "nameLinkno": 740599039,
+    "nameSteps": 42,
+    "nameStatus": "named"
+  },
+  "7040392520": {
+    "riverID": 740499634,
+    "riverName": "Great Lakes",
+    "nameLinkno": 740345189,
+    "nameSteps": 887,
+    "nameStatus": "named"
+  },
+  "7040402320": {
+    "riverID": 740474126,
+    "riverName": "St. Lawrence",
+    "nameLinkno": 740599039,
+    "nameSteps": 100,
+    "nameStatus": "named"
+  },
+  "7040402430": {
+    "riverID": 740393494,
+    "riverName": "St. Lawrence",
+    "nameLinkno": 740599039,
+    "nameSteps": 96,
+    "nameStatus": "named"
+  },
+  "7040426310": {
+    "riverID": 740463427,
+    "riverName": "Great Lakes",
+    "nameLinkno": 740345189,
+    "nameSteps": 664,
+    "nameStatus": "named"
+  },
+  "7040426320": {
+    "riverID": 740382747,
+    "riverName": "Great Lakes",
+    "nameLinkno": 740345189,
+    "nameSteps": 672,
+    "nameStatus": "named"
+  },
+  "7040028670": {
+    "riverID": 740294621,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 8,
+    "nameStatus": "missing_network"
+  },
+  "7040028680": {
+    "riverID": 740326873,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040029000": {
+    "riverID": 740306692,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "7040029460": {
+    "riverID": 740474987,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040031710": {
+    "riverID": 740520695,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040024600": {
+    "riverID": 740492601,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040024830": {
+    "riverID": 740495287,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040024840": {
+    "riverID": 740500653,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040024890": {
+    "riverID": 740514086,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "7040025090": {
+    "riverID": 740487161,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "7040025560": {
+    "riverID": 740433307,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 3,
+    "nameStatus": "missing_network"
+  },
+  "7040025570": {
+    "riverID": 740399619,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040028070": {
+    "riverID": 740188323,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 8,
+    "nameStatus": "missing_network"
+  },
+  "7040028410": {
+    "riverID": 740283825,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040038340": {
+    "riverID": 750109592,
+    "riverName": "Kennebec",
+    "nameLinkno": 750109592,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040039620": {
+    "riverID": 750181290,
+    "riverName": "Connecticut",
+    "nameLinkno": 750179515,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "7040039870": {
+    "riverID": 750171830,
+    "riverName": "Hubson",
+    "nameLinkno": 750170058,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "7040041400": {
+    "riverID": 750106172,
+    "riverName": "Potomac",
+    "nameLinkno": 750129283,
+    "nameSteps": 55,
+    "nameStatus": "named"
+  },
+  "7040041410": {
+    "riverID": 750123938,
+    "riverName": "Potomac",
+    "nameLinkno": 750129283,
+    "nameSteps": 44,
+    "nameStatus": "named"
+  },
+  "7040042040": {
+    "riverID": 750170779,
+    "riverName": "Roanoke",
+    "nameLinkno": 750158937,
+    "nameSteps": 11,
+    "nameStatus": "named"
+  },
+  "7040043090": {
+    "riverID": 750286879,
+    "riverName": "Waccamaw",
+    "nameLinkno": 750301090,
+    "nameSteps": 4,
+    "nameStatus": "named"
+  },
+  "7040043160": {
+    "riverID": 750288070,
+    "riverName": "North Santee",
+    "nameLinkno": 750288662,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "7040043170": {
+    "riverID": 750096351,
+    "riverName": "Apalachicola",
+    "nameLinkno": 750093395,
+    "nameSteps": 6,
+    "nameStatus": "named"
+  },
+  "7040045890": {
+    "riverID": 750079185,
+    "riverName": "Apalachicola",
+    "nameLinkno": 750093395,
+    "nameSteps": 5,
+    "nameStatus": "named"
+  },
+  "7040046590": {
+    "riverID": 750214727,
+    "riverName": "Alabama",
+    "nameLinkno": 750236632,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "7040046600": {
+    "riverID": 750192832,
+    "riverName": "Pascagoula",
+    "nameLinkno": 750192832,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040046750": {
+    "riverID": 760071454,
+    "riverName": "Pearl",
+    "nameLinkno": 760071454,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040047060": {
+    "riverID": 760021611,
+    "riverName": "Mississippi",
+    "nameLinkno": 760021611,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040047070": {
+    "riverID": 760114747,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040569640": {
+    "riverID": 760754696,
+    "riverName": "Missouri",
+    "nameLinkno": 760754696,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040569650": {
+    "riverID": 760736391,
+    "riverName": "Upper Mississippi",
+    "nameLinkno": 760736391,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040612640": {
+    "riverID": 760645009,
+    "riverName": "Ohio",
+    "nameLinkno": 760645009,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040612840": {
+    "riverID": 760699924,
+    "riverName": "Lower Mississippi",
+    "nameLinkno": 760359050,
+    "nameSteps": 133,
+    "nameStatus": "named"
+  },
+  "7040741760": {
+    "riverID": 760111324,
+    "riverName": "Atchafalaya",
+    "nameLinkno": 760061521,
+    "nameSteps": 28,
+    "nameStatus": "named"
+  },
+  "7040741770": {
+    "riverID": 760124637,
+    "riverName": "Mississippi",
+    "nameLinkno": 760021611,
+    "nameSteps": 29,
+    "nameStatus": "named"
+  },
+  "7040047850": {
+    "riverID": 770573343,
+    "riverName": "Sabine",
+    "nameLinkno": 770573343,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040047970": {
+    "riverID": 770594140,
+    "riverName": "Trinity",
+    "nameLinkno": 770504701,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "7040048300": {
+    "riverID": 770491212,
+    "riverName": "Brazos",
+    "nameLinkno": 770491212,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040048410": {
+    "riverID": 770448577,
+    "riverName": "Colorado",
+    "nameLinkno": 770426741,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "7040049270": {
+    "riverID": 770390434,
+    "riverName": "Rio Grande",
+    "nameLinkno": 770390434,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040073660": {
+    "riverID": 770589933,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040050640": {
+    "riverID": 770201404,
+    "riverName": "Papaloapan",
+    "nameLinkno": 770197243,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "7040050920": {
+    "riverID": 770271090,
+    "riverName": "Grijalva",
+    "nameLinkno": 770274210,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "7040054660": {
+    "riverID": 770075841,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040050000": {
+    "riverID": 770279344,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "7040073640": {
+    "riverID": 770376919,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040005510": {
+    "riverID": 810498009,
+    "riverName": "Yukon",
+    "nameLinkno": 810486244,
+    "nameSteps": 11,
+    "nameStatus": "named"
+  },
+  "8040141350": {
+    "riverID": 810311200,
+    "riverName": "Upper Mouth",
+    "nameLinkno": 810296079,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "8040141480": {
+    "riverID": 810363283,
+    "riverName": "Yukon",
+    "nameLinkno": 810486244,
+    "nameSteps": 425,
+    "nameStatus": "named"
+  },
+  "8040176060": {
+    "riverID": 810390278,
+    "riverName": "Yukon",
+    "nameLinkno": 810486244,
+    "nameSteps": 279,
+    "nameStatus": "named"
+  },
+  "8040219130": {
+    "riverID": 810484515,
+    "riverName": "Stewart",
+    "nameLinkno": 810479474,
+    "nameSteps": 1,
+    "nameStatus": "named"
+  },
+  "8040219290": {
+    "riverID": 810462677,
+    "riverName": "Yukon",
+    "nameLinkno": 810486244,
+    "nameSteps": 658,
+    "nameStatus": "named"
+  },
+  "8040005520": {
+    "riverID": 810341450,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040007020": {
+    "riverID": 810359915,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 2,
+    "nameStatus": "missing_network"
+  },
+  "8040007180": {
+    "riverID": 810366602,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040008230": {
+    "riverID": 810132801,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 16,
+    "nameStatus": "missing_network"
+  },
+  "8040008380": {
+    "riverID": 810147925,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040000010": {
+    "riverID": 810390663,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040002260": {
+    "riverID": 810482988,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "8040004480": {
+    "riverID": 810133746,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040004910": {
+    "riverID": 810389014,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 4,
+    "nameStatus": "missing_network"
+  },
+  "8040004920": {
+    "riverID": 810385591,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040009560": {
+    "riverID": 820272970,
+    "riverName": "Mackenzie",
+    "nameLinkno": 820211113,
+    "nameSteps": 19,
+    "nameStatus": "named"
+  },
+  "8040009570": {
+    "riverID": 820122377,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040011270": {
+    "riverID": 820345786,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040183070": {
+    "riverID": 820408993,
+    "riverName": "Great Bear",
+    "nameLinkno": 820408993,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "8040183170": {
+    "riverID": 820378083,
+    "riverName": "Mackenzie",
+    "nameLinkno": 820211113,
+    "nameSteps": 285,
+    "nameStatus": "named"
+  },
+  "8040252610": {
+    "riverID": 820253311,
+    "riverName": "Mackenzie",
+    "nameLinkno": 820211113,
+    "nameSteps": 481,
+    "nameStatus": "named"
+  },
+  "8040252760": {
+    "riverID": 820269441,
+    "riverName": "Liard",
+    "nameLinkno": 820269441,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "8040264670": {
+    "riverID": 820303043,
+    "riverName": "Horn",
+    "nameLinkno": 820295004,
+    "nameSteps": 79,
+    "nameStatus": "named"
+  },
+  "8040264770": {
+    "riverID": 820324582,
+    "riverName": "Horn",
+    "nameLinkno": 820295004,
+    "nameSteps": 157,
+    "nameStatus": "named"
+  },
+  "7040686450": {
+    "riverID": 760359044,
+    "riverName": "Arkansas-Red-White",
+    "nameLinkno": 760359044,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "7040686540": {
+    "riverID": 760380679,
+    "riverName": "Lower Mississippi",
+    "nameLinkno": 760359050,
+    "nameSteps": 2,
+    "nameStatus": "named"
+  },
+  "7040049990": {
+    "riverID": 770164882,
+    "riverName": "Panuco",
+    "nameLinkno": 770164882,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "8040307380": {
+    "riverID": 820357007,
+    "riverName": "Horn",
+    "nameLinkno": 820295004,
+    "nameSteps": 250,
+    "nameStatus": "named"
+  },
+  "8040183880": {
+    "riverID": 810304625,
+    "riverName": "Yukon",
+    "nameLinkno": 810486244,
+    "nameSteps": 180,
+    "nameStatus": "named"
+  },
+  "6040372340": {
+    "riverID": 630381270,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 188,
+    "nameStatus": "missing_network"
+  },
+  "2040363710": {
+    "riverID": 220363505,
+    "riverName": "Upper Dnipro",
+    "nameLinkno": 220363505,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "1040007060": {
+    "riverID": 110773344,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040007010": {
+    "riverID": 110710365,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "1040041770": {
+    "riverID": 110320048,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "8040307300": {
+    "riverID": 820334161,
+    "riverName": "Horn",
+    "nameLinkno": 820295004,
+    "nameSteps": 250,
+    "nameStatus": "named"
+  },
+  "7040392650": {
+    "riverID": 740453946,
+    "riverName": "Great Lakes",
+    "nameLinkno": 740345189,
+    "nameSteps": 885,
+    "nameStatus": "named"
+  },
+  "8040183760": {
+    "riverID": 810319743,
+    "riverName": "Koyukuk",
+    "nameLinkno": 810319743,
+    "nameSteps": 0,
+    "nameStatus": "named"
+  },
+  "6040814820": {
+    "riverID": 640560570,
+    "riverName": "Parana",
+    "nameLinkno": 640255644,
+    "nameSteps": 246,
+    "nameStatus": "named"
+  },
+  "6040021220": {
+    "riverID": 650133557,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "6040018280": {
+    "riverID": 650306756,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050210": {
+    "riverID": 460279224,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040050580": {
+    "riverID": 480425006,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  },
+  "4040051100": {
+    "riverID": 480128795,
+    "riverName": null,
+    "nameLinkno": null,
+    "nameSteps": 1,
+    "nameStatus": "missing_network"
+  }
+}

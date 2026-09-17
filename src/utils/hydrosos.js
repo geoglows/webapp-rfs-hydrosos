@@ -27,6 +27,7 @@ export function computeHydroSOSBands(
 
     bands.push({
       month,
+      values,
       minimum: Math.min(...values),
       p10: percentile(values, 10),
       p25: percentile(values, 25),

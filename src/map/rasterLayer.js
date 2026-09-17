@@ -169,3 +169,12 @@ async function encodePng(tile) {
   const blob = await canvas.convertToBlob({type: "image/png"});
   return blob.arrayBuffer();
 }
+
+export async function setRasterTif(map, tifUrl) {
+  await loadRaster(tifUrl); // decode (or hit cache) before tiles are requested
+  const source = map.getSource(RASTER_LAYER_ID);
+  if (!source) {
+    throw new Error("Raster source not initialized — call addRasterLayer first.");
+  }
+  source.setTiles([`${PROTOCOL}://${encodeURIComponent(tifUrl)}/{z}/{x}/{y}`]);
+}

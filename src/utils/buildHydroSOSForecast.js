@@ -18,8 +18,8 @@ export function buildHydroSOSForecast(bands, currentYearMonthly, monthsAhead = 3
     const index = lastModeled + i;
     if (index >= bands.length) break;
     median[index] = bands[index].median;
-    minimum[index] = bands[index].minimum;
-    maximum[index] = bands[index].maximum;
+    minimum[index] = bands[index].p10;
+    maximum[index] = bands[index].p90;
   }
   return {
     median,

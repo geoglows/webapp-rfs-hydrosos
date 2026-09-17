@@ -16,7 +16,7 @@ export function getRollingMonths() {
   const months = [];
 
   for (let i = 0; i < MONTHS_IN_WINDOW; i++) {
-    let month = currentMonth - MONTHS_BACK + i;
+    let month = currentMonth - (MONTHS_BACK-1) + i;
 
     while (month < 1) {
       month += 12;
@@ -28,6 +28,9 @@ export function getRollingMonths() {
 
     months.push(month);
   }
+
+  console.log("HydroSOS rolling months:", months);
+
 
   return months;
 }

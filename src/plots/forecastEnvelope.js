@@ -3,6 +3,7 @@ import {getHistoricalForecastCurves} from "../utils/getHistoricalForecastCurves.
 import {computeForecastEnvelope} from "../utils/computeForecastEnvelope.js";
 import {computeDailyPercentileBands} from "../utils/computeDailyPercentileBands.js";
 import {computeRollingWindowCurves} from "../utils/computeRollingWindowCurves.js";
+import { getVolumeUnit } from "../utils/formatVolume.js";
 import {legendDefaults, renderChart, titleOptions, tooltipDefaults, unifiedHover} from "./chartSetup.js";
 
 export function plotForecastEnvelope(data) {
@@ -25,6 +26,21 @@ export function plotForecastEnvelope(data) {
     };
   });
 
+  console.log(
+    "Cumulative curves with invalid values:",
+    cumulativeCurves.filter(curve =>
+        curve.cumulativeVolume.some(
+            v => v == null || Number.isNaN(v)
+        )
+    ).map(curve => ({
+        year: curve.year,
+        invalidValues:
+            curve.cumulativeVolume.filter(
+                v => v == null || Number.isNaN(v)
+            ).length
+    }))
+);
+
   const today = new Date();
 
   const historicalCurves =
@@ -37,6 +53,16 @@ export function plotForecastEnvelope(data) {
     cumulativeCurves.find(
       c => c.year === today.getUTCFullYear()
     );
+
+    console.log("Current curve:", {
+      year: currentCurve?.year,
+      length: currentCurve?.cumulativeVolume.length,
+      lastVolume: currentCurve?.cumulativeVolume.at(-1),
+      invalidValues:
+          currentCurve?.cumulativeVolume.filter(
+              v => v == null || Number.isNaN(v)
+          ).length
+  });
 
   const lastModeledDate =
     currentCurve.dates[currentCurve.cumulativeVolume.length - 1];
@@ -53,21 +79,49 @@ export function plotForecastEnvelope(data) {
       historicalForecasts
     );
 
+    console.log("Forecast:", {
+      median: forecast?.median?.at(-1),
+      minimum: forecast?.minimum?.at(-1),
+      maximum: forecast?.maximum?.at(-1)
+  });
+
   const dailyBands =
     computeDailyPercentileBands(historicalCurves);
 
   const currentVolume =
     currentCurve.cumulativeVolume.at(-1);
 
+    
+
+  const maxVolume =
+    Math.max(
+        ...cumulativeCurves.flatMap(
+            curve => curve.cumulativeVolume
+        )
+    );
+
+const volumeUnit =
+    getVolumeUnit(maxVolume);
+  
+  
+
   // Forecast is stored as volume added since the last modeled day,
   // so shift it up onto the end of the modeled curve.
   const shifted = values =>
     values.map(
-      v => v == null ? null : (currentVolume + v) / 1e9
+        v =>
+            v == null
+                ? null
+                : (currentVolume + v) /
+                  volumeUnit.divisor
     );
 
-  const bandPoints = values =>
-    toPoints(dailyBands.dates, values);
+    const bandPoints = values =>
+      toPoints(
+          dailyBands.dates,
+          values,
+          volumeUnit
+      );
 
   const forecastPoints = key => {
     const values = shifted(forecast[key]);
@@ -153,8 +207,9 @@ export function plotForecastEnvelope(data) {
     label: "Modeled Discharge",
     data: toPoints(
       currentCurve.dates,
-      currentCurve.cumulativeVolume
-    ),
+      currentCurve.cumulativeVolume,
+      volumeUnit
+  ),
     borderColor: "black",
     borderWidth: 4,
     pointRadius: 0,
@@ -178,7 +233,8 @@ export function plotForecastEnvelope(data) {
           callbacks: {
             label: item =>
               `${item.dataset.label}: ` +
-              `${item.parsed.y.toFixed(1)} billion m³`
+              `${item.parsed.y.toFixed(volumeUnit.decimals)} ` +
+              `${volumeUnit.label}`
           }
         }
       },
@@ -198,7 +254,8 @@ export function plotForecastEnvelope(data) {
         y: {
           title: {
             display: true,
-            text: "Cumulative Volume (billion m³)"
+            text:
+    `Cumulative Volume (${volumeUnit.label})`
           }
         }
       }
@@ -206,9 +263,12 @@ export function plotForecastEnvelope(data) {
   });
 }
 
-function toPoints(dates, volumes) {
+function toPoints(dates, volumes, volumeUnit) {
   return volumes.map((volume, index) => ({
-    x: dates[index],
-    y: volume == null ? null : volume / 1e9
+      x: dates[index],
+      y:
+          volume == null
+              ? null
+              : volume / volumeUnit.divisor
   }));
 }

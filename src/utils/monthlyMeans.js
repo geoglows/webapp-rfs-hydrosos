@@ -2,6 +2,8 @@ export function computeMonthlyMeans(records, field = "flow") {
   const groups = {};
 
   records.forEach(r => {
+    if (r[field] == null || Number.isNaN(r[field])) return;
+
     const key = `${r.year}-${r.month}`;
 
     if (!groups[key])
@@ -25,7 +27,7 @@ export function computeMonthlyMeans(records, field = "flow") {
 
       monthlyMeans[year][month] = mean;
     }
-  )
+  );
 
-  return monthlyMeans
+  return monthlyMeans;
 }

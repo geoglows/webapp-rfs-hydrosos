@@ -20,14 +20,12 @@ export function latestAvailableMonth(now = new Date()) {
   );
 }
 
-function tifUrl(month) {
+export function tifUrl(month) {
   const year = month.getUTCFullYear();
-
-  const paddedMonth =
-    String(month.getUTCMonth() + 1).padStart(2, "0");
-
+  const paddedMonth = String(month.getUTCMonth() + 1).padStart(2, "0");
   return `${BASE_URL}/${year}-${paddedMonth}.tif`;
 }
+
 
 export async function findLatestTif() {
   const latest = latestAvailableMonth();
@@ -52,4 +50,30 @@ export async function findLatestTif() {
   }
 
   throw new Error("Could not find a recent TIFF.");
+}
+
+
+async function tifExists(month) {
+  try {
+    const response = await fetch(tifUrl(month), {method: "HEAD"});
+    return response.ok;
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * Find the raster for a requested month, falling back to the nearest
+ * earlier month (up to FALLBACK_MONTHS back) if that exact month is missing.
+ */
+export async function findTifForMonth(requestedMonth) {
+  for (let i = 0; i < FALLBACK_MONTHS; i++) {
+    const month = new Date(
+      Date.UTC(requestedMonth.getUTCFullYear(), requestedMonth.getUTCMonth() - i, 1)
+    );
+    if (await tifExists(month)) {
+      return {url: tifUrl(month), month};
+    }
+  }
+  throw new Error("No TIFF found near requested month.");
 }

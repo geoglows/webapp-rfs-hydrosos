@@ -2,6 +2,7 @@ import {computeRollingWindowCurves} from "../utils/computeRollingWindowCurves";
 import {buildRecords} from "../utils/buildRecords";
 import {computeMedianCurve} from "../utils/computeMedianCurve";
 import {legendDefaults, renderChart, titleOptions, tooltipDefaults, unifiedHover} from "./chartSetup.js";
+import { getVolumeUnit } from "../utils/formatVolume.js";
 
 export function plotCumulativeVolume(data) {
   const records = buildRecords(data);
@@ -23,6 +24,17 @@ export function plotCumulativeVolume(data) {
     };
   });
 
+  const allVolumes =
+    cumulativeCurves.flatMap(
+        curve => curve.cumulativeVolume
+    );
+
+const maxVolume =
+    Math.max(...allVolumes);
+
+const volumeUnit =
+    getVolumeUnit(maxVolume);
+
   // Each historical year as a faint gray line in the background.
   //
   // Chart.js draws datasets from the highest order to the lowest, so the
@@ -30,7 +42,7 @@ export function plotCumulativeVolume(data) {
   // the gray mass is drawn over the two lines that matter.
   const datasets = cumulativeCurves.map(curve => ({
     label: "",
-    data: toPoints(curve.dates, curve.cumulativeVolume),
+    data: toPoints(curve.dates, curve.cumulativeVolume, volumeUnit),
     borderColor: "rgba(204, 204, 204, 0.5)",
     borderWidth: 1,
     pointRadius: 0,
@@ -54,7 +66,7 @@ export function plotCumulativeVolume(data) {
 
   datasets.push({
     label: "30-year Median",
-    data: toPoints(median.dates, median.cumulativeVolume),
+    data: toPoints(median.dates, median.cumulativeVolume, volumeUnit),
     borderColor: "#1f77b4",
     borderWidth: 4,
     pointRadius: 0,
@@ -70,7 +82,8 @@ export function plotCumulativeVolume(data) {
       label: "Current Water Year",
       data: toPoints(
         currentCurve.dates,
-        currentCurve.cumulativeVolume
+        currentCurve.cumulativeVolume,
+        volumeUnit
       ),
       borderColor: "black",
       borderWidth: 4,
@@ -86,7 +99,7 @@ export function plotCumulativeVolume(data) {
       responsive: true,
       interaction: unifiedHover,
       plugins: {
-        title: titleOptions("Historical Cumulative Volume"),
+        title: titleOptions("Simulated Cumulative Volume"),
         legend: {
           ...legendDefaults,
           position: "top"
@@ -96,7 +109,8 @@ export function plotCumulativeVolume(data) {
           callbacks: {
             label: item =>
               `${item.dataset.label}: ` +
-              `${item.parsed.y.toFixed(1)} billion m³`
+              `${item.parsed.y.toFixed(volumeUnit.decimals)} ` +
+              `${volumeUnit.label}`
           }
         }
       },
@@ -116,7 +130,7 @@ export function plotCumulativeVolume(data) {
         y: {
           title: {
             display: true,
-            text: "Cumulative Volume (billion m³)"
+            text: `Cumulative Volume (${volumeUnit.label})`
           }
         }
       }
@@ -124,9 +138,11 @@ export function plotCumulativeVolume(data) {
   });
 }
 
-function toPoints(dates, volumes) {
+function toPoints(dates, volumes, volumeUnit) {
   return volumes.map((volume, index) => ({
     x: dates[index],
-    y: volume == null ? null : volume / 1e9
+    y: volume == null
+      ? null
+      : volume / volumeUnit.divisor
   }));
 }

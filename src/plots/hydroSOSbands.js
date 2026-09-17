@@ -16,11 +16,16 @@ export function plotHydroSOSBands(
     b => MONTH_NAMES[b.month - 1]
   );
 
+  console.log("HydroSOS bands months:", months);
+console.log("Current year monthly:", currentYearMonthly);
+
   const forecast =
     buildHydroSOSForecast(
       bands,
       currentYearMonthly
     );
+
+    console.log("HydroSOS forecast:", forecast);
 
   // Shaded status bands, each filling down to the one before it
   const datasets = [
@@ -44,7 +49,7 @@ export function plotHydroSOSBands(
     const maximumIndex = datasets.length;
 
     datasets.push({
-      label: "Historical Maximum",
+      label: "90th Percentile",
       data: forecast.maximum,
       borderColor: "gray",
       borderDash: [4, 4],
@@ -54,7 +59,7 @@ export function plotHydroSOSBands(
     });
 
     datasets.push({
-      label: "Historical Minimum",
+      label: "10th Percentile",
       data: forecast.minimum,
       borderColor: "gray",
       borderDash: [4, 4],
@@ -101,12 +106,6 @@ export function plotHydroSOSBands(
         }
       },
       scales: {
-        x: {
-          title: {
-            display: true,
-            text: "Month"
-          }
-        },
         y: {
           title: {
             display: true,

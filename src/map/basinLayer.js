@@ -23,8 +23,43 @@ function selectedFilter(hybasID) {
   return ["==", ["get", "HYBAS_ID"], hybasID];
 }
 
+const LEGEND_CLASSES = [
+  ["very-dry", "Very Dry"],
+  ["dry", "Dry"],
+  ["normal", "Normal"],
+  ["wet", "Wet"],
+  ["very-wet", "Very Wet"]
+];
+
+/** Reads the same status colors the charts shade their bands with. */
+class HydroSOSLegend {
+  onAdd() {
+    this.container = document.createElement("div");
+
+    this.container.className = "maplibregl-ctrl hydrosos-legend";
+
+    this.container.innerHTML = `
+      <div class="hydrosos-legend-title"><strong>HydroSOS Status</strong></div>
+      ${LEGEND_CLASSES.map(([className, label]) => `
+        <div class="hydrosos-legend-item">
+          <span class="hydrosos-color ${className}"></span>
+          <span>${label}</span>
+        </div>
+      `).join("")}
+    `;
+
+    return this.container;
+  }
+
+  onRemove() {
+    this.container.remove();
+  }
+}
+
 export async function addBasinLayer(map, {tilesUrl, bounds}, onClick) {
   basinBounds = bounds;
+
+  map.addControl(new HydroSOSLegend(), "bottom-right");
 
   if (!protocolRegistered) {
     addProtocol("pmtiles", new Protocol().tile);
